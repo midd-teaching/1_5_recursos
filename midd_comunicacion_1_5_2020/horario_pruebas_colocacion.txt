@@ -1,0 +1,29 @@
+Escrito
+Student				Email												Interviewer
+Angelakos Stella	stella@angelakoslaw.com, sangelakos@middlebury.edu	JC/AB 
+Anderson Suzanne	suzannea@middlebury.edu 							JC/AB
+Cao Hui 			hcao@middlebury.edu 								JC/AB 
+D Vince 			vd@middlebury.edu 									JC/AB
+G Nick 				ng@middlebury.edu 									JC/AB
+Kayes Anna 			anna.e.kayes@gmail.com, anna.e.kayes@gmail.com 		JC/AB
+McKinley Leona 		lmckinley@middlebury.edu 							JC/AB
+Palekar Aditya 		apalekar@middlebury.edu 							JC/AB
+S Rick 				ricks@middlebury.edu 								JC/AB
+Smith Tremaine 		tnsmith@middlebury.edu 								JC/AB
+Stokes Emily 		stokes@middlebury.edu, emilystokes91@gmail.com 		JC/AB
+Finnegan Lisa 		lfinnegan@middlebury.edu, bird6781@gmail.com 		JC/AB
+Arieli Chai Hagit	harelichai@middlebury.edu 					 		JC/AB
+
+Oral
+Student				Email										Time	Interviewer
+B Nicholas	 		nb@middlebury.edu	 						11:40am	JC/AB
+Clark Alicia	 	aliciac@middlebury.edu						11:50am	JC/AB
+De La Fuente Steven	sdelafuente@middlebury.edu	 				12:00pm	JC/AB
+Gonzalez Aiko	 	aikog@middlebury.edu	 					12:10pm	JC/AB
+Hill Mary	 		maryh@middlebury.edu	 					12:20pm	JC/AB
+Laserson Galen	 	glaserson@middlebury.edu	 				13:00pm	JC/AB
+Ohanian Alec	 	aleco@middlebury.edu, alec.ohan@gmail.com	13:10pm	JC/AB
+R Nicholas	 		nr@middlebury.edu	 						13:20pm	JC/AB
+Smith Megan	 		mvsmithg@middlebury.edu	 					13:30pm	JC/AB
+Vrahiotes Aaron	 	avrahiotes@middlebury.edu	 				13:40pm	JC/AB
+Arieli Chai Hagit	harelichai@middlebury.edu     				13:50pm	JC/AB
