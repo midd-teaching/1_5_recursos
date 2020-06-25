@@ -1,0 +1,20 @@
+---
+output: word_document
+---
+
+### Nombre:  
+
+### Instrucciones
+
+De nuevo, Martín le escribe una carta a su mejor amigo Javier para contarle lo que hizo durante la semana pasada en la Escuela Española de Middlebury College. Conjuga los verbos en el pretérito.
+
+Hola Javier,
+
+Ya llevo muchas semanas en la Escuela Española y creo que me estoy volviendo loco. La semana pasada yo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (1. ver) que no siempre es divertido estar en Middlebury. Los profesores me \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (2. dar) mucha tarea y yo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (3. estar) enfermo durante 2 días. Mis amigos y yo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (4. querer) ir al lago Dunmore, pero no \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (5. haber) manera con tanta tarea. Al final nosotros \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (6. ir) al grill cada noche para estudiar más. Por si te parece poco, mi mejor amigo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (7. tener) que dejar el programa porque tenía demasiado estrés y se le \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (8. caer) todo el pelo. Él \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (9. ponerse) malo después de las pruebas del profesor Joseph. La semana pasada yo te \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (10. decir) que me encantaba Middlebury, pero yo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (11. llegar) a la conclusión de que echo de menos a mi madre y no sé para qué yo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (12. venir). Le escribí una carta en español pero creo que ella ni la \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (13. leer). ¿Cómo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (14. poder (tú)) aguantar todo esto durante 7 semanas? Yo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (15. buscar) información en la oficina de los bilingües, pero ni modo. Espero sobrevivir hasta el final. Si no me ves dentro de dos semanas, es porque me mató la comida de Proctor. 
+
+
+Con mucho miedo,  
+Martín
+
+
+

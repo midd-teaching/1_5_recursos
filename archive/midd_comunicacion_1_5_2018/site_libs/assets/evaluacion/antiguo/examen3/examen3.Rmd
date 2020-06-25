@@ -1,0 +1,70 @@
+---
+output: 
+  html_document:
+    theme: cosmo
+---
+
+# Lugar
+
+- BH 148
+
+# Horario
+
+- 10:15	chad (88)
+- 10:30	Karmelita (94)
+- 10:45	Rick (90)
+- 11:00	Sara (97)
+- 11:15	Camila
+- 11:30	grace (88)
+- 11:45	madeline (93)
+- 12:00	ari (95)
+- 12:15	
+- 12:30	
+
+
+# Apertura
+
+- ¿Cómo estás hoy? 
+- ¿Qué tiempo hace? 
+- ¿De dónde vienes? 
+- ¿Te gusta el campus?, etc.
+
+# Comprobación de nivel (preguntas de nivel intermedio)
+
+- ¿Cómo es tu ciudad/pueblo/universidad? 
+- ¿Cómo es tu casa/apartamento, etc.? 
+- ¿Cómo es tu rutina cuando no estás en Middlebury? 
+- ¿Qué actividades te interesan más en tu tiempo libre? 
+- ¿Cómo es tu familia/amigos/hermanos, etc.? 
+
+# Sondeo
+
+## Si el estudiante no puede contestar las preguntas de la anterior fase, se hacen más preguntas para decidir si se trata de un principiante absoluto (novice-low) o “falso” (novice-mid o novice-high): 
+
+- ¿Qué clases vas a tomar aquí? 
+- ¿A qué hora comienzan? 
+- ¿Qué otras clases tienes en tu universidad? 
+- ¿En qué trabajas? 
+- ¿Vives cerca o lejos de tu universidad/trabajo? 
+- ¿Cómo vas a tus clases/a tu trabajo? 
+- ¿Qué comes en un día normal? ¿Cuántas personas hay en tu familia?, etc.
+
+## Si el estudiante puede contestar las preguntas de la anterior fase, se hacen nuevas preguntas para decidir si se trata de un intermedio medio o alto (intermediate mid/high) o de un avanzado medio o alto (advanced low/mid): 
+
+- ¿Puedes hablarme de dónde vivías antes? 
+- ¿Has estado en algún país hispanohablante? 
+- ¿Cómo fue la experiencia? 
+- ¿Cómo decidiste estudiar…/trabajar en…? 
+- ¿Cómo fueron los primeros días en tu universidad/trabajo?, etc.
+
+# Cierre
+
+- ¿Te gustan las películas en español? 
+- ¿Qué vas a hacer esta tarde/noche? 
+- ¿Qué actividades cocurriculares te interesan más?, etc.
+
+# Pregunta de investigacion
+
+!!!
+
+</br>

@@ -1,0 +1,72 @@
+---
+title: "Español 1.5"
+author: "Joseph V. Casillas"
+date: 'Verano 2017'
+output:
+  html_document:
+    toc: true
+---
+
+# Semana 1
+
+**Objetivos**: Presentarse, presentar al compañero, presentar información cultural (Puerto Rico), Descripción de personas
+
+**Proyectos**:
+
+```{r, child='./notes/semanas/semana1/semana1.Rmd'}
+```
+
+# Semana 2
+
+**Objetivos**: Descripción (los lugares, las personas, la rutina), México
+
+**Proyectos**:
+
+```{r, child='./notes/semanas/semana2/semana2.Rmd'}
+```
+
+# Semana 3
+
+**Objetivos**: Preparación para hablar del pasado (la comida, Perú)
+
+**Proyectos**:
+
+```{r, child='./notes/semanas/semana3/semana3.Rmd'}
+```
+
+# Semana 4
+
+**Objetivos**: Preparar visita de Sergio, hablar del pasado (escribir, narrar), Argentina
+
+**Proyectos**:
+
+```{r, child='./notes/semanas/semana4/semana4.Rmd'}
+```
+
+# Semana 5
+
+**Objetivos**: Manejar aspectos del pasado, España
+
+**Proyectos**:
+
+```{r, child='./notes/semanas/semana5/semana5.Rmd'}
+```
+
+# Semana 6
+
+**Objetivos**: Persuadir y dar consejos, Ecuador
+
+**Proyectos**:
+
+```{r, child='./notes/semanas/semana6/semana6.Rmd'}
+```
+
+# Semana 7 
+
+**Objetivos**: Preparación para la evaluación
+
+**Proyectos**:
+
+```{r, child='./notes/semanas/semana7/semana7.Rmd'}
+```
+

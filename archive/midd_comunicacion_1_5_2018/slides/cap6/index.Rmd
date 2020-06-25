@@ -1,0 +1,434 @@
+---
+title       : "Español 1.5"
+subtitle    : "Capítulo 6"
+author      : "Joseph V. Casillas"
+date        : "Middlebury College | Verano 2018"
+output:
+  xaringan::moon_reader:
+    css: ["hygge", "middlebury", "middlebury-fonts"]
+    lib_dir: assets
+    self_contained: FALSE
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/ru_xaringan/js/ru_xaringan.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: monokai
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+options(htmltools.dir.version = FALSE)
+library(tidyverse)
+```
+
+```{r, eval=FALSE, echo=FALSE, cache=FALSE}
+rmarkdown::render("./slides/cap6/index.Rmd")
+xaringan::inf_mr()
+```
+
+
+<!--
+warmups
+- past participle
+
+vocab
+- las compras (missing)
+- la ropa (missing)
+
+grammar
+- ir/ser
+- presente perfecto
+- complemento indirecto
+
+extras
+- mas pronombres
+-->
+
+# Precalentamiento
+
+### ¡Cálmate!
+
+Tu amiga Sofía va a montar una fiesta para su novio. Ella está un poco preocupada con los preparativos y tú tienes que calmarla. Con un(a) compañero(a) de clase, seguid el modelo y completad los diálogos. ¡Ojo! Hay que usar participios pasados en las respuestas. 
+
+- **Sofía**: ¿Quién va a **decorar** el pastel?
+- **Tú**: ¡No te preocupes! El pastel ya *está* **decorado**. 
+
+---
+
+# Precalentamiento
+
+### ¡Cálmate!
+
+**Sofía**: ¿Quién va a **decorar** el pastel?  
+**Tú**: ¡No te preocupes! El pastel ya *está* **decorado**. 
+
+- ¿Por qué no **preparamos** los sándwiches ahora?
+- ¿Quién va a **poner** la mesa?
+- Ahora tenemos que **hacer** las camas.
+- ¿Cuándo vamos a **envolver** los regalos?
+- Debemos **abrir** las ventanas; hace calor hoy.
+- ¿Hay más platos sucios? Tenemos que **lavar**los antes de que lleguen los invitados. 
+
+---
+
+# Precalentamiento
+
+### ¿Qué habéis hecho...?
+
+- Cuéntale 2 cosas a tu compañero/a que has hecho
+  - hoy
+  - esta semana 
+  - este verano
+  - este año
+
+---
+
+# El presente perfecto
+
+### Sirve para indicar cosas que **han pasado** y siguen siendo relevantes en el presente. 
+
+- ¿Has comprado el vino para la fiesta?
+- Sí, y también he preparado las tapas.
+- ¿Qué han hecho ustedes hoy?
+- Hemos trabajado mucho 
+
+--
+
+### El verbo haber
+
+.pull-left[
+
+- **haber** + participio pasado = el presente perfecto
+- **¡OJO!** ¡No se pronuncia la "h"!
+- **¡Recordad!** Algunos verbos son irregulares.
+
+]
+
+.pull-right[
+
+|     |    |          Singular          |    |              Plural               |
+| :-- | :- | :------------------------- | :- | :-------------------------------- |
+| 1a  |    | yo **he** trabajado        |    | nosotros **hemos** dormido        |
+| 2a  |    | tú **has** comido          |    | vosotros **habéis** dormido       |
+| 3a  |    | él/ella/usted **ha** visto |    | ellos/ellas/ustedes **han** hecho |
+| | &nbsp; &nbsp; | | &nbsp; &nbsp; | |
+
+]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class: inverse, middle, center
+
+# Más pronombres
+
+---
+
+# Repasito
+
+- ¿Cuáles son los pronombres de <blue>complemento directo</blue>?
+
+--
+
+- Concordancia de **género** y **número**
+
+--
+
+.pull-right[
+
+```{r results = 'asis', echo = FALSE}
+library(dplyr)
+tribble(
+
+ ~Persona,       ~'&#160;', ~Singular,     ~'&nbsp;',  ~Plural,
+  '1a',           '',        '**me**',      '',        '**nos**', 
+  '2a',           '',        '**te**',      '',        '**os**', 
+  '3a',           '',        '**lo, la**',  '',        '**los, las**', 
+  'sustantivos',  '',        '**lo, la**',  '',        '**los, las**') %>%
+
+as.data.frame(.) %>% 
+pander::pandoc.table(., style = "rmarkdown", 
+                        justify = c('left', 'left', 'left', 'left', 'left'))
+```
+
+]
+
+---
+
+<div align="center">
+<iframe src="https://play.kahoot.it/#/?quizId=c135ad4b-11c5-41df-89ca-fc80ab96bc05" width="1000" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
+
+---
+
+# Los pronombres después de preposiciones
+
+<div style="float:right">
+  <img src="../../site_libs/assets/img/pensar2.jpg">
+</div>
+
+### ¿Recordáis?
+
+- (<blue>A</blue> **mí**) me gusta el chocolate. 
+
+--
+
+- (<blue>A</blue> **nosotros**) nos interesa el tema. 
+
+--
+
+- (<blue>A</blue> **ellas**) les motiva el tiempo. 
+
+--
+
+- Les parece bien la idea (<blue>a</blue> **ustedes**). 
+
+--
+
+### ¿Qué tienen en común?
+
+--
+
+- También son pronombres
+
+--
+
+- También aparecen detrás de otras preposiciones
+
+---
+
+# Los pronombres después de preposiciones
+
+.pull-left[
+
+- **Romeo**: ¿Este café es <black>para mí</black>?
+- <blue>Beca</blue>: ¿<black>Para ti</black>? ¡No! Ese café es <black>para ella</black>.
+
+<p></p>
+
+- **Barba roja**: ¿Quién habla <black>de nosotros</black>?
+- <blue>Will</blue>: Sólo hablan <black>de ti</black>.
+
+<p></p>
+
+- **Marley**: ¿Vienes <black>con nosotras</black> al senderismo?
+- <blue>Sami</blue>: Sí. No quiero ir <black>sin ustedes</black>. 
+
+]
+
+--
+
+.pull-right[
+
+|       |                      |                       |
+| :---- | :------------------: | :-------------------- |
+| a     |                      | mí                    |
+| de    |                      | ti                    |
+| para  |                      | usted, él, ella       |
+| por   |          +           | nosotros/as           |
+| sin   |                      | vosotros/as           |
+| sobre |                      | ustedes, ellos, ellas |
+| | &#160; &#160; &#160; &#160; &#160; &#160; | |
+
+]
+
+--
+
+### ¡**Ojo**! Excepciones...
+
+--
+
+con + mí = conmigo  
+con + ti = contigo
+
+- **Will**: Oye, Andrés. La fiesta es mañana. ¿Quieres ir <black>conmigo</black>?
+- <blue>Sarah</blue>: No puedo ir <black>contigo</black>, Will. Todavía no tengo disfraz. 
+
+<p></p>
+
+--
+
+- **Entre tú y yo**, creo que miente. 
+
+---
+
+# Actividad
+
+### Haciendo planes
+
+- ir al cine/teatro  
+A: ***¿Cuándo puedes ir al cine conmigo?***  
+B: ***Nunca puedo ir contigo.***
+
+1. estudiar español
+2. ir a Dos Hermanos
+3. jugar al vóleibol
+4. preparar una fiesta
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class: inverse, center, middle
+
+# Ir y ser
+
+---
+
+# Ir y ser
+
+### Algunos verbos importantes en el pretérito:
+
+|                  |    |    ir    |    |   ser    | 
+| :--------------- | :- | :------- | :- | :------- | 
+| yo               |    | fui      |    | fui      | 
+| tú               |    | fuiste   |    | fuiste   | 
+| Ud./él/ella      |    | fue      |    | fue      | 
+| nosotros(as)     |    | fuimos   |    | fuimos   | 
+| vosotros(as)     |    | fuisteis |    | fuisteis | 
+| Uds./ellos/ellas |    | fueron   |    | fueron   | 
+| | &#160; &#160;  |    | &#160; &#160; |          |
+
+<!-- añadir ejercicio -->
+
+---
+
+
+
+
+
+
+
+
+
+
+class: inverse, middle, center
+
+# Complemento indirecto
+
+---
+
+# Los complementos indirectos
+
+### Expresan ¿a quién? o ¿para quién?
+
+Siempre **les** sirvo *vino* **a mis invitados**.
+
+--
+
+### ¿Qué sirvo? 
+
+- *El vino*  
+(el complemento directo)
+
+--
+
+### ¿A quién sirvo? 
+
+- **A mis invitados**  
+(el complemento indirecto)
+
+---
+background-image: url("https://www.wpclipart.com/signs_symbol/arrows/BW_arrows/arrow_BW_thin_left.png")
+background-position: 47% 38%
+background-size: 60px
+
+# Los complementos indirectos
+
+|  Singular         |    |        |    |  Plural               |    |         |
+| :---------------- | :- | :----- | :- | :-------------------- | :- | :------ |
+| yo                |    | **me** |    | nosotros              |    | **nos** |
+| tú                |    | **te** |    | vosotros              |    | **os**  |
+| usted, él, ella   |    | <blue>le</blue> |    | ustedes, ellos, ellas |    | <blue>les</blue> |
+| | &nbsp; | | &nbsp; &nbsp; &nbsp; | | &nbsp; | |
+
+</br>
+
+- ¿**Me** puede traer una cuchara?
+
+- Siempre **les** preparo las galletas.
+
+---
+
+# Los complementos indirectos
+
+### La posición de los complementos indirectos pronominales depende de la forma verbal
+
+--
+
+#### Con un verbo conjugado
+
+- ¿Cuánto **le** debo?
+
+--
+
+#### Con un verbo conjugado y un infinitivo
+
+- ¿**Me** puede traer un tenedor?
+- ¿Puede traer**me** un tenedor?
+
+---
+
+# Los complementos indirectos
+
+### Muchas veces el complemento indirecto <blue>y</blue> el pronombre de complemento indirecto aparecen en la misma oración para evitar la confusión
+
+- Siempre **le** sirvo platos vegetarianos **a María**.
+
+- **Les** voy a servir una sopa **a mis invitados**.
+
+---
+
+# A practicar...
+
+- Ej. 3, p. 222
+- Ej. 6-18, p. 224
+

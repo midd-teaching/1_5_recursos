@@ -1,0 +1,30 @@
+---
+header-includes:
+   - \usepackage{setspace}
+output: pdf_document
+---
+
+\large{
+
+\textbf{Cambia los verbos entre paréntesis al pertérito.}
+
+\doublespacing
+
+Elena y Esteban \_\_\_\_\_\_\_\_\_ (tener) un accidente ayer. Esteban \_\_\_\_\_\_\_\_\_ (perder) el control del carro y no \_\_\_\_\_\_\_\_\_ (poder) parar a tiempo. Ellos \_\_\_\_\_\_\_\_\_ (chocar) con otro carro. Cuando la policía \_\_\_\_\_\_\_\_\_ (llegar), \_\_\_\_\_\_\_\_\_ (decir) que el otro chofer no había tenido la culpa. Por suerte no \_\_\_\_\_\_\_\_\_ (haber) heridos. Ellos \_\_\_\_\_\_\_\_\_ (tener) que dejar el carro allí y \_\_\_\_\_\_\_\_\_ (andar) a casa. 
+
+\vspace{.2in}
+
+¡\_\_\_\_\_\_\_\_\_ (ser) terrible! El chofer que iba delante de mí \_\_\_\_\_\_\_\_\_ (parar) de repente. Yo \_\_\_\_\_\_\_\_\_ (hacer) todo lo posible para evitarlo per no \_\_\_\_\_\_\_\_\_ (poder) parar a tiempo. \_\_\_\_\_\_\_\_\_ (perder) totalmente el control del carro. La policía \_\_\_\_\_\_\_\_\_ (decir) que fue por mi culpa. Mi señora \_\_\_\_\_\_\_\_\_ (estar) muy nerviosa por varios días después del accidente. Ah, \_\_\_\_\_\_\_\_\_ (yo/traer) la descripción del accidente que nos pidió escribir. 
+
+\vspace{.2in}
+
+\textbf{Cambia los verbos entre paréntesis al pertérito.}
+
+Elena y Esteban \_\_\_\_\_\_\_\_\_ (tener) un accidente ayer. Esteban \_\_\_\_\_\_\_\_\_ (perder) el control del carro y no \_\_\_\_\_\_\_\_\_ (poder) parar a tiempo. Ellos \_\_\_\_\_\_\_\_\_ (chocar) con otro carro. Cuando la policía \_\_\_\_\_\_\_\_\_ (llegar), \_\_\_\_\_\_\_\_\_ (decir) que el otro chofer no había tenido la culpa. Por suerte no \_\_\_\_\_\_\_\_\_ (haber) heridos. Ellos \_\_\_\_\_\_\_\_\_ (tener) que dejar el carro allí y \_\_\_\_\_\_\_\_\_ (andar) a casa. 
+
+\vspace{.2in}
+
+¡\_\_\_\_\_\_\_\_\_ (ser) terrible! El chofer que iba delante de mí \_\_\_\_\_\_\_\_\_ (parar) de repente. Yo \_\_\_\_\_\_\_\_\_ (hacer) todo lo posible para evitarlo per no \_\_\_\_\_\_\_\_\_ (poder) parar a tiempo. \_\_\_\_\_\_\_\_\_ (perder) totalmente el control del carro. La policía \_\_\_\_\_\_\_\_\_ (decir) que fue por mi culpa. Mi señora \_\_\_\_\_\_\_\_\_ (estar) muy nerviosa por varios días después del accidente. Ah, \_\_\_\_\_\_\_\_\_ (yo/traer) la descripción del accidente que nos pidió escribir. 
+
+
+}

@@ -1,0 +1,24 @@
+---
+title: "Material didáctico"
+output:
+  html_document:
+    toc: true
+---
+
+3151 – High Beginner Spanish in Context – Horario 8:00-9:50am
+
+## Presentaciones
+
+```{r echo = F, results = 'asis'}
+slides = dir('slides', full = TRUE)
+links = paste0("- ", 
+  "[", basename(slides), "]", "(", slides, "/index.html)"
+)
+last <- length(links)
+last2 <- length(links) - 9
+writeLines(links[2:3])
+```
+
+
+
+

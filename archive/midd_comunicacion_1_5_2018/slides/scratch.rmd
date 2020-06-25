@@ -1,0 +1,32 @@
+
+# En un hotel: para conseguir una habitación
+
+![:scale 80%](./assets/img/hotel1.png)
+
+---
+
+# En un hotel: para conseguir una habitación
+
+![:scale 80%](./assets/img/hotel2.png)
+
+---
+
+# En un hotel: unas preguntas para el recepcionista
+
+![:scale 60%](./assets/img/hotel4.png)
+![:scale 90%](./assets/img/hotel5.png)
+![:scale 60%](./assets/img/hotel6.png)
+
+---
+
+# En un hotel: ¿En que piso está... ?
+
+![:scale 60%](./assets/img/hotel6.png)
+![:scale 60%](./assets/img/hotel7.png)
+
+
+
+
+
+
+
