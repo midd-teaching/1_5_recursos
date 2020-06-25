@@ -1,0 +1,11 @@
+---
+title: Bienvenidos
+---
+
+***
+
+<div align="center">
+  <img width="100%" src="./libraries/assets/img/midd.jpg">
+</div>
+
+***
