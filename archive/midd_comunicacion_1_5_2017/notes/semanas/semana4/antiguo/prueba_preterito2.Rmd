@@ -1,0 +1,19 @@
+---
+output: word_document
+---
+
+### Nombre:  
+
+### Instrucciones
+
+Martín le escribe una carta a su mejor amigo Javier para contarle lo que hizo durante el fin de semana en la Escuela Española de Middlebury College. Conjuga los verbos en el pretérito.
+
+Hola Javier,
+
+Ya llevo 3 semanas en la Escuela Española y creo que he aprendido mucho. El fin de semana pasado \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (1. estar) genial. El viernes por la noche mis amigos y yo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (2. ir) a un concierto de poesía y jazz. Cuando yo \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (3. llegar), \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (4. ver) que el guitarrista tenía problemas. \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (5. tener (él)) que afinar la guitarra muchas veces, pero por fin \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (6. poder) hacerlo. \_\_\_\_\_\_\_\_\_\_\_\_\_\_  (7. ponerse (él)) contento y \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (8. leer) el primer poema. Después, \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (9. buscar (yo)) a mis amigos en el grill. Nosotros \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (10. querer) tomarnos algo, pero no \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (11. haber) manera. Le \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (12. decir (yo)) a mi amigo Juan que deberíamos ir a Dos Hermanos. Él me dijo que estaba cansado. Al final él no \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (13. venir), pero me \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (14. dar) los cinco dólares que me debía. ¿\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (15. ver (tú)) que he aprendido mucho aquí?
+
+Un saludo,  
+Martín
+
+
+

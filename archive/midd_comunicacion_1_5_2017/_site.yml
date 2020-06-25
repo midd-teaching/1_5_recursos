@@ -1,0 +1,22 @@
+name: "midd_comunicacion_1_5_2017"
+output_dir: "."
+navbar:
+  title: "Comunicación 1.5"
+  left:
+    - text: "Overview"
+      href: index.html#overview
+    - text: "Course Materials"
+      href: index.html#course-materials
+    - text: "Calendar"
+      href: index.html#calendar
+  right: 
+    - icon: glyphicon glyphicon-home
+      href: http://www.jvcasillas.com
+    - icon: glyphicon glyphicon-envelope
+      href: mailto:joseph.casillas@rutgers.edu
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate
+    include:
+      after_body: site_libs/includes/after_body.html
