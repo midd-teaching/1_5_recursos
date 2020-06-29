@@ -103,7 +103,7 @@ background-size: contain
 class: title-slide-section-grey
 
 ---
-background-image: url("../../site_libs/assets/img/ru.png"), url("./assets/img/ua.png")
+background-image: url(https://raw.githubusercontent.com/jvcasillas/ru_xaringan/master/img/logo/ru_shield.png), url("./assets/img/ua.png")
 background-size: 120px, 150px
 background-position: 33% 90%, 66% 90%
 
@@ -451,12 +451,30 @@ background-position: 95% 50%
 	- ¿Dónde trabaja?
 
 ---
-background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/partner2.gif)
-background-position: 95% 50%
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/partner2.gif), url(./assets/img/rompehielos.png)
+background-position: 95% 50%, 20% 80%
+background-size: 400px, 500px
 
 # Con un compañero nuevo...
 
-- Romprehielos
+### Rompehielos
+
+
+---
+background-image: url(./assets/img/rompehielos.png)
+background-position: 95% 50%
+background-size: 500px
+
+# Con un compañero nuevo...
+
+### Rompehielos
+
+1. Comparte tu información con un compañero/a.  
+Escribe las cosas que tenéis en común. 
+
+2. Algo interesante que aprendí es...
+
+3. Quiero saber más sobre... 🤔
 
 ---
 
@@ -466,5 +484,4 @@ background-position: 95% 50%
 - Repasar el programa
 - Explorar la página canvas (go.middlebury.edu/hub)
 - Estudiar el vocabulario (capítulo preliminar)
-
 
