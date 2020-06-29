@@ -1,0 +1,38 @@
+# Semana 1
+
+## Lunes, 29 de julio
+
+### Plan
+
+- Funciones: Presentaciones y despedidas
+	- P.1.1 Vocabulario en contexto: Las presentaciones
+	- P.1.2 Vocabulario en contexto: Los saludos y las despedidas
+
+### Detalles
+
+- quien soy
+- estructura de la clase
+	- programa
+	- la semana
+	- zoom
+	- canvas
+	- myLab
+	- sugerencias para tener éxito
+- quienes sois?
+	- rompehielos virtual
+
+### Tarea
+
+- Apuntarse al mylab/libro
+- Repasar el programa
+- Explorar la página moodle (go.middlebury.edu/hub)
+- Estudiar el vocabulario
+
+
+
+
+
+
+
+## Martes, 30 de julio
+
