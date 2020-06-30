@@ -123,8 +123,12 @@ buscar lo que tienen en común (buscar ser)
 | | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
 
 ---
+background-image: url(./assets/img/kino.png)
+background-size: contain
 
+<!--
 <iframe src="https://www.instagram.com/p/BlgS05eh2AP/" height="200" width="300"></iframe>
+-->
 
 ---
 
