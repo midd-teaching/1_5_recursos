@@ -50,10 +50,24 @@
 
 ### Detalles
 
+- canvas, mylab, libro 
+- Vocabulario útil de la clase (versión zoom)
+- Saludos, presentarse, despedirse (whiteboard)
+- verbo ser
+- alfabeto (que lo revisen en casa)
+
 ### Tarea
+
+- Apuntarse al mylab/libro
+- Repasar el programa
+- Explorar la página moodle (go.middlebury.edu/hub)
+- Estudiar el vocabulario
 
 ### Comentarios
 
+- Bastante bien
+- Hay que jugar más con la pizarra interactiva (para que todo el mundo la puede usar)
+- breakout rooms molan
 
 
 
@@ -62,14 +76,20 @@
 
 ## Miércoles, 1 de julio
 
-### Plan
+### Reunión de nivel
 
-### Detalles
-
-### Tarea
-
-### Comentarios
-
+- qué tal los primeros días?
+	- zoom
+	- canvas
+	- mylab
+- zoom channel
+	- para las clases
+	- para nosotros
+- horario para las reuniones
+- oratory coaching 
+	- 6 de julio
+- Mesa redonda - Racismo, lenguaje y comunidad
+	- hay que invitar a los de 1 para hablar (a la 1:30)
 
 
 
@@ -78,20 +98,56 @@
 
 ### Plan
 
+- Funciones: Entrevistas y presentaciones 
+- Estrategias para aprender vocabulario
+	- 1.1.1 Vocabulario en contexto: Los estudiantes españoles 
+
 ### Detalles
+
+- canvas, mylab check
+- zoom chat
+- entrevistas
+	- lluvia de ideas, preguntas para una entrevista
+	- preguntas acerca de la escuela en otros países
+	- invitado especial
+- estrategias para aprender vocabulario
+	- break out rooms
+	- google doc trick 
+		=GOOGLETRANSLATE(CELL, "en", "es")
 
 ### Tarea
 
+- Apuntarse al mylab/libro
+- Repasar el programa
+- Explorar la página moodle (go.middlebury.edu/hub)
+- Estudiar el vocabulario
+
 ### Comentarios
 
+- La entrevista con Rocio funcionó muy bien
+- vocab strategies funcionó muy bien también
+
+ 
+            
 
 
 ## Viernes, 3 de julio
 
 ### Plan
 
+- Funciones: La descripción de personas
+- Actividad e-Portafolio - Cómo se hace una presentación
+	- 1.4.1 Gramática en contexto: Interrogative words
+	- 1.4.2 Gramática en contexto: Present tense of estar 
+
+
 ### Detalles
+
+- ahorcado
+- 
 
 ### Tarea
 
 ### Comentarios
+
+
