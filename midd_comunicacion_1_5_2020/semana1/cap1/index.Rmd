@@ -220,6 +220,8 @@ background-position: 100%
 
 ### ¿Cómo se hace una presentación?
 
+--
+
 - ¡Ensayar! ¡Ensayar! ¡Ensayar!
 
 --
