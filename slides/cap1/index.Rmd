@@ -556,6 +556,25 @@ class: title-slide-section-grey, middle
 
 ---
 
+# A practicar
+
+### Usa los verbos en el presente para hablar de...
+
+1. tu rutina  
+.grey[Normalmente desayuno a las 8, voy al gimnasio a las 9, trabajo a las 10, etc.]
+
+--
+
+2. una acción continua  
+.grey[Veo la televisión todos los días.]
+
+--
+
+3. una acción en el futuro (ir a + inf.)  
+.grey[Mañana voy a viajar.]
+
+---
+
 # Algunos verbos regulares
 
 .pull-left[
@@ -630,5 +649,11 @@ class: title-slide-section-grey, middle
   Discutir  
 
 ]
+
+---
+background-image: url(https://media2.giphy.com/media/XfBtsIAbXUJIk/giphy.gif)
+background-size: 500px
+
+# Hablemos de metas
 
 ---
