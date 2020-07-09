@@ -1,0 +1,234 @@
+---
+title       : "Español 1.5"
+subtitle    : "Capítulo 2"
+author      : "Joseph V. Casillas"
+date        : "Middlebury College | Verano 2020"
+output:
+  xaringan::moon_reader:
+    css: ["hygge", "middlebury", "middlebury-fonts"]
+    lib_dir: assets
+    self_contained: FALSE
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/midd_xaringan/js/midd_xaringan.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: monokai
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: inverse, center, middle
+
+# Repaso
+
+---
+
+# Actividad verbos regulares
+
+<div align="center">
+  <img width="850" src="./assets/img/ejconjugacion.png">
+</div>
+
+---
+
+# La relación sujeto/verbo
+
+**SVO**
+
+--
+
+- **Juan** ***tiene*** tres clases este semestre.
+
+--
+
+- **Juan** *no* ***tiene*** un laboratorio este semestre.
+
+--
+
+- **Yo** *tengo* cuatro clases este semestre, pero **ella** *tiene* cinco.
+
+--
+
+- **Los estudiantes** ***estudian*** durante el fin de semana. 
+
+--
+
+- **Tú y yo** ***buscamos*** las respuestas de la tarea.
+
+---
+
+
+
+
+class: inverse, center, middle
+
+# Los adjetivos
+
+---
+
+# Los adjetivos
+
+- ¿Qué tipo de concordancia tienen? 
+
+- ¿Con qué concuerdan?
+
+- ¿Cuándo?
+
+- Ejemplos...
+
+---
+
+<!-- adjetivos posesivos -->
+
+# Los adjetivos posesivos
+
+- Se utilizan para indicar **posesión**
+- Tienen **número** y **género**
+
+|    |    |       |    |                        |
+|:---| :- | :---- | :- | :--------------------- |
+| 1a |    | mi(s) |    | nuestro(s)/nuestra(s)  |
+| 2a |    | tu(s) |    | vuestro(s)/vuestra(s)  |
+| 3a |    | su(s) |    | su(s)                  |
+| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+
+</br>
+
+- mi familia, mis abuelos
+
+- su hija, sus hijos
+
+- nuestr**a** herman**a**, nuestr**os** herman**os**
+
+---
+background-image: url(./assets/img/cadiz.png)
+background-position: 90% 40%
+
+# La posesión con 'de'
+
+.pull-left[
+
+- Para evitar la confusión en la 3a persona, se puede usar la preposión 
+'de'
+
+.center[
+.RUred[Enrique y Alicia viven en Cádiz.]  
+
+**¿Dónde están sus casas?**
+]
+
+- La casa **de** él está en San Fernando. 
+- La casa **de** ella está en Sanlúcar.  
+
+]
+
+---
+background-image: url(./assets/img/cadiz.png)
+background-position: 90% 40%
+
+# La posesión con 'de'
+
+.pull-left[
+
+- Para evitar la confusión en la 3a persona, se puede usar la preposión 'de'
+
+.center[
+.RUred[Enrique y Alicia tienen amigos que viven en Cádiz.]
+
+**¿Dónde viven sus amigos?**
+]
+
+- El amigo **de** Alicia vive en San Fernando.  
+- El amigo **de** Enrique vive en Sanlúcar. 
+
+]
+
+---
+
+# ¡Nunca usamos <BLUE>'s</BLUE> para indicar posesión!
+
+.pull-left[
+### ~~Mi hermanas casa~~
+### ~~Tu amigos coche~~
+### ~~Su abuelos teléfono~~
+### ~~Nuestro perros correa~~
+### ~~Vuestras clases profesor~~ 
+### ~~Sus camas sábanas~~
+]
+
+--
+
+.pull-right[
+### La casa de mi hermana
+### El coche de tu amigo
+### El teléfono de su abuelo
+### La correa de nuestro perro
+### El profesor de vuestras clases
+### Las sábanas de sus camas
+]
+
+---
+
+
+
+
+
+# Presentación de un compañero
+
+- Vais a hacer una presentación oral corta el viernes
+
+--
+
+- Duración de 1.30
+
+--
+
+- El enfoque será en las construcciones que hemos visto en clase
+
+--
+
+- Podéis hablar de lo que queráis, pero sugiero que os centréis en lo que hemos 
+visto en clase
+
+---
+
+# Preparación
+
+### Para preparar debéis:
+
+- Escoger un compañero
+
+- Quedar en una hora esta tarde para hablar (si hace falta)
+
+- Utilizar nuestras estrategias para obtener información
+
+- Apuntar toda la información (verificar que es correcta)
+
+- Ensayar
+
+- **NO PODÉIS LEER**
+
+---
+
+# Estrategias para la comunicación oral  
+
+- ¡Ensayar! ¡Ensayar! ¡Ensayar!
+
+--
+
+- Hablar lentamente
+
+--
+
+- Vocales puras
+
+--
+
+- Tensión bucal
+
+--
+
+- Practicad palabras largas por sílabas

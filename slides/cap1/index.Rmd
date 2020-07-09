@@ -677,5 +677,4 @@ personalidad (tímido, divertido, extrovertido)
 - Escoge una persona de la clase (¡sin decir quién!) y descríbela para que 
 los demás adivinen quién es
 
----
 
