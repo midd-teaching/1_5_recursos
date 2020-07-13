@@ -1,0 +1,210 @@
+---
+title       : "Español 1.5"
+subtitle    : "Capítulo 3"
+author      : "Joseph V. Casillas"
+date        : "Middlebury College | Verano 2020"
+output:
+  xaringan::moon_reader:
+    css: ["hygge", "middlebury", "middlebury-fonts"]
+    lib_dir: assets
+    self_contained: FALSE
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/midd_xaringan/js/midd_xaringan.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: monokai
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+# Precalentamiento
+
+## Con un/a compañer@...
+
+1. **Escoged** un sitio en el mundo al cual te gustaría viajar (no sé lo digas 
+al compañero).
+2. Formad 3-5 frases completas que **incluyan**:
+  - una descripción de lo que te gusta o no te gusta del sitio
+  - el verbo .RUred[gustar]
+3. **Compartid** las frases con el compañero para que ***adivine*** el sitio
+
+--
+
+¡**PISTA**!
+
+- Es mejor usar frases que dan mucha información acerca del sitio
+- Ej. 
+  - (A mí) me gusta tomar el sol. 
+  - (A mí) me gusta la arena. 
+  - (A mí) me gusta nadar. 
+
+---
+
+
+
+
+
+# Expresiones con el verbo *tener*
+
+- tener hambre
+- tener sed
+- tener frío
+- tener calor
+- tener celos
+- tener miedo
+- tener razón
+- tener suerte
+- tener sueño
+- tener prisa
+- tener ganas de
+- tener que + inf.
+- tener X años
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+class: title-slide-section-blue, center, bottom
+background-image: url("./assets/img/moana.gif")
+background-size: contain
+background-position: 50%, 50%
+
+# ¿Cuáles son tus estrategias para la comprensión auditiva?
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- la comida --> 
+
+# El desayuno: ¿Qué te gusta desayunar?
+
+<div align="center">
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/SilOmnTK-z8" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- pregunta qué les gusta desayunar -->
+
+---
+
+# El desayuno: ¿Qué te gusta desayunar?
+
+.center[
+![:scale 72%](./assets/img/desayuno1.png)
+]
+
+---
+
+# El almuerzo: ¿Qué almuerzas?
+
+.center[
+![:scale 72%](./assets/img/almuerzo1.png)
+]
+
+<!-- preguntar al compa;ero lo que suele almorzar -->
+
+---
+
+# La merienda: ¿Qué meriendas?
+
+.center[
+![:scale 72%](./assets/img/merienda1.png)
+]
+
+<!-- que es una merienda? -->
+
+---
+
+# La cena: ¿Qué prefieres cenar?
+
+.center[
+![:scale 72%](./assets/img/cena1.png)
+]
+
+---
+
+# ¿A qué no puedes adivinar?
+
+En grupos de tres...
+
+- Cread (individualmente) una lista de 5 comidas (desayuno, almuerzo, 
+merienda, cena)
+- En turnos, describid una de las comidas de tu lista para que vuestros 
+compañeros la adivinen
+
+Ejemplo:
+
+- **Tú**: Es un plato de huevos y queso
+- .RUred[Compañero]: ¡Es una tortilla!
+
+Ejemplo:
+
+- .RUred[Compañero]: Es algo que comemos por la mañana con mermelada o mantequilla.
+- **Tú**: Es el pan tostado.
+
+---
+
+# En el restaurante: antes de pedir
+
+.center[
+![:scale 75%](./assets/img/restaurante1.png)
+]
+
+<!-- track 2-4 -->
+
+---
+
+# Para pedir en un restaurante...
+
+.center[
+![:scale 65%](./assets/img/restaurante2.png)
+]
+
+<!-- track 2-5 --> 
+
+---
+
+# Después de comer: la cuenta
+
+.center[
+![:scale 75%](./assets/img/restaurante3.png)
+]
+
+<!-- track 2-6 -->
+
+---
+
+# Los cubiertos
+
+.center[
+![:scale 75%](./assets/img/cubiertos1.png)
+]
+
+---
+
+
+
