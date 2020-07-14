@@ -71,91 +71,6 @@ class: title-slide-section-grey
 <!-- día siguiente -->
 
 ---
-
-# El verbo *tener*
-
-.center[
-
-|             |                        | .blue[Singular] |                       | .blue[Plural]  |
-| :---------- | :--------------------- | :-------------- | :-------------------- | :------------- |
-| .RUred[1a]  | .grey[yo]              | tengo           | nosotros/as           | tenemos        |
-| .RUred[2a]  | .grey[tú]              | tienes          | vosotros/as           | tenéis         |
-| .RUred[3a]  | .grey[él, ella, usted] | tiene           | ellos, ellas, ustedes | tienen         |
-
-]
-
---
-
-- Posesión
-  - Tengo tres gatos
-  - Tienes una casa bonita
-  - Los estudiantes tienen un examen
-
-- Obligación (tener que + inf.)
-  - **Tengo que** estudiar.
-  - Tenemos que hacer mucha tarea para aprobar la clase/
-
-- Frases/expersiones especiales
-
----
-
-# El verbo *tener*
-
-### Expresiones con el verbo *tener*
-
-.pull-left[
-
-- tener hambre
-- tener sed
-- tener frío
-- tener calor
-- tener celos
-- tener miedo
-- tener razón
-
-]
-
-.pull-right[
-
-- tener suerte
-- tener sueño
-- tener prisa
-- tener X años
-- tener ganas de
-
-]
-
----
-
-# El verbo ir
-
-|     |    | Singular             |    | Plural                      |
-| :-- | :- | :------------------- | :- | :-------------------------- |
-| 1a  |    | yo **voy**           |    | nosotros/as **vamos**       |
-| 2a  |    | tú **vas**           |    | vosotros/as **vais**        |
-| 3a  |    | él/ella/usted **va** |    | ellos/ellas/ustedes **van** |
-| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
-
---
-
-- Ir a + sustantivo (movimiento, ¿Adónde vas?)
-  - **Voy a** la biblioteca
-  - **Vamos a** la playa
-
-- Ir a + infinitivo (futuro, ¿Qué vas a hacer?)
-  - **Voy a** estudiar
-  - Los estudiantes **van a** estudiar este fin de semana
-
----
-background-image: url(./assets/img/tenerser.png)
-background-size: 750px
-background-position: 50% 50%
-
----
-
-
-
-
 class: inverse, center, middle
 
 # Más gustar
@@ -376,9 +291,92 @@ background-position: 50% 70%
 - Me llevo bien con el director.
 
 ---
+class: title-slide-section-grey, middle
 
+# Los verbos .RUred[tener] e .RUred[ir]
 
+---
 
+# El verbo *tener*
+
+.center[
+
+|             |                        | .blue[Singular] |                       | .blue[Plural]  |
+| :---------- | :--------------------- | :-------------- | :-------------------- | :------------- |
+| .RUred[1a]  | .grey[yo]              | tengo           | nosotros/as           | tenemos        |
+| .RUred[2a]  | .grey[tú]              | tienes          | vosotros/as           | tenéis         |
+| .RUred[3a]  | .grey[él, ella, usted] | tiene           | ellos, ellas, ustedes | tienen         |
+
+]
+
+--
+
+- Posesión
+  - Tengo tres gatos
+  - Tienes una casa bonita
+  - Los estudiantes tienen un examen
+
+- Obligación (tener que + inf.)
+  - **Tengo que** estudiar.
+  - Tenemos que hacer mucha tarea para aprobar la clase/
+
+- Frases/expersiones especiales
+
+---
+
+# El verbo *tener*
+
+### Expresiones con el verbo *tener*
+
+.pull-left[
+
+- tener hambre
+- tener sed
+- tener frío
+- tener calor
+- tener celos
+- tener miedo
+- tener razón
+
+]
+
+.pull-right[
+
+- tener suerte
+- tener sueño
+- tener prisa
+- tener X años
+- tener ganas de
+
+]
+
+---
+
+# El verbo ir
+
+|     |    | Singular             |    | Plural                      |
+| :-- | :- | :------------------- | :- | :-------------------------- |
+| 1a  |    | yo **voy**           |    | nosotros/as **vamos**       |
+| 2a  |    | tú **vas**           |    | vosotros/as **vais**        |
+| 3a  |    | él/ella/usted **va** |    | ellos/ellas/ustedes **van** |
+| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+
+--
+
+- Ir a + sustantivo (movimiento, ¿Adónde vas?)
+  - **Voy a** la biblioteca
+  - **Vamos a** la playa
+
+- Ir a + infinitivo (futuro, ¿Qué vas a hacer?)
+  - **Voy a** estudiar
+  - Los estudiantes **van a** estudiar este fin de semana
+
+---
+background-image: url(./assets/img/tenerser.png)
+background-size: 750px
+background-position: 50% 50%
+
+---
 
 
 
