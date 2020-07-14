@@ -43,9 +43,6 @@ al compañero).
   - (A mí) me gusta nadar. 
 
 ---
-class: title-slide-section-grey
-
----
 
 # Presentación: Mi plato preferido
 
@@ -66,12 +63,9 @@ class: title-slide-section-grey
 
 
 ---
-class: title-slide-section-grey
+class: title-slide-section-grey, center, middle
 
 <!-- día siguiente -->
-
----
-class: inverse, center, middle
 
 # Más gustar
 
