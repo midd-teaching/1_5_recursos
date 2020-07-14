@@ -312,7 +312,7 @@ class: title-slide-section-grey, middle
 
 - Obligación (tener que + inf.)
   - **Tengo que** estudiar.
-  - Tenemos que hacer mucha tarea para aprobar la clase/
+  - Tenemos que hacer mucha tarea para aprobar la clase
 
 - Frases/expersiones especiales
 
