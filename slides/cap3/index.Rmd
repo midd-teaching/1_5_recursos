@@ -377,6 +377,68 @@ background-position: 50% 50%
 
 
 
+class: title-slide-section-grey
+
+<!-- d'ia nuevo -->
+
+---
+class: inverse, middle
+background-image: url(../../site_libs/assets/img/scared.gif)
+background-position: 100% 50%
+background-size: 400px
+
+# Algunos verbos irregulares
+
+---
+
+# Los verbos irregulares con -go: la forma yo
+
+</br>
+
+.Large[
+| Infinitivo |    |   Yo       |    |            Otras personas           |
+| :--------- | :- | :--------- | :- | :---------------------------------- |
+| hacer      |    | **hago**   |    | haces, hace, hacemos, hacéis, hacen |
+| poner      |    | **pongo**  |    | pones, pone, ponemos, ponéis, ponen |
+| salir      |    | **salgo**  |    | sales, sale, salimos, salís, salen  |
+| traer      |    | **traigo** |    | traes, trae, traemos, traéis, traen |
+| | &nbsp; &nbsp; | | &nbsp; &nbsp; | |
+]
+
+---
+
+# Los números de 100 a 10,000,000
+
+.center[
+![:scale 70%](./assets/img/numeros1.png)
+]
+
+---
+
+# ¿Sabes mucha historia?
+
+- Haz una lista de 3 acontecimientos históricos importantes
+
+- Cuéntale a tu compañero/a el acontecimiento para que adivine el año
+
+- Ej. 
+
+  - En este año, Cristóbal Colón hace un viaje al nuevo mundo buscando especias. 
+
+--
+
+  - **1492** (mil cuatrocientos noventa y dos)
+
+---
+
+
+
+
+
+
+
+
+
 
 
 
