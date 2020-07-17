@@ -457,6 +457,84 @@ background-size: 400px
 
 
 
+class: inverse, middle, center
+
+<!-- más descripción -->
+
+# Más descripción
+
+---
+
+# La familia
+
+<div style="float: left">
+  <img src="./assets/img/arbolgenealogico.png">
+</div>
+
+<div style="float: right">
+  <img width="425" src="./assets/img/familia.png">
+</div>
+
+---
+
+# ¿Cómo es tu familia?
+
+- Mi hermano mayor se llama...
+- Mi padre tiene ... años.
+- Mi tía vive en...
+
+</br>
+
+<div align="center">
+  <img src="./assets/img/familia.png">
+</div>
+
+<!-- 
+actividad 
+Describir tu familia al compañero, el/ella tiene que dibujar el árbol
+-->
+
+---
+
+# Mi árbol genealógico
+
+- En una hoja de papel dibujad una imagen de tu compañero.
+
+- Debajo de la imagen, pon su nombre.
+
+- Tu compañero/a va a describir su familia para que dibujes su árbol.
+
+- Tienes que describir claramente tu familia y ayudar a tu compañero/a 
+
+- Tienes que tener paciencia 
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
