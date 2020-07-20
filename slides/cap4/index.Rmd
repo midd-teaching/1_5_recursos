@@ -20,19 +20,20 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+background-image: url(./assets/img/mascotas1.png)
+background-size: 450px
+background-position: 95% 50%
 
-# Precalentamiento
+# Las mascotas
 
-## Con un/a compañer@...
+- ¿Cuántas mascotas tienes?
 
+- ¿Qué tipos de mascotas hay en tu casa?
 
-
-
-class: inverse, middle, center
-
-<!-- más descripción -->
-
-# Más descripción
+---
+background-image: url("./assets/img/mayaKinoXmas.png")
+background-size: contain
+class: inverse
 
 ---
 
@@ -60,10 +61,26 @@ class: inverse, middle, center
   <img src="./assets/img/familia.png">
 </div>
 
-<!-- 
-actividad 
-Describir tu familia al compañero, el/ella tiene que dibujar el árbol
--->
+---
+background-image: url(./assets/img/familia2.png), url(./assets/img/familia1.png)
+background-size: 500px, 700px
+background-position: 5% 60%, 100% 50%
+
+# La familia
+
+---
+
+# Mi árbol genealógico
+
+- En una hoja de papel dibujad una imagen del profe
+
+--
+
+- Debajo de la imagen, pon "Joseph".
+
+--
+
+- Escuchad la descripción y rellenad el árbol.
 
 ---
 
@@ -81,3 +98,211 @@ Describir tu familia al compañero, el/ella tiene que dibujar el árbol
 
 ---
 
+
+
+
+
+
+
+class: inverse, center, middle
+
+# Verbos irregulares
+
+---
+
+# Verbos irregulares
+
+### Verbos con cambio en la raíz
+
+.Large[
+
+| El infinitivo | la raíz |     |   el cambio    |    Ej.    |
+| :------------ | :-----: | :-: | :------------: | :-------- |
+| &nbsp;        |         |     |                |           |
+| pensar        | pens-   |     | p.RUred[ie]ns  | Yo pienso |
+|               | **e**   |  →  | **ie**         |           |
+| &nbsp;        |         |     |                |           |
+| volver        | volv-   |     | v.RUred[ue]lv- | Yo vuelvo |
+|               | **o**   |  →  | **ue**         |           |
+| &nbsp;        |         |     |                |           |
+| pedir         | ped-    |     | p.RUred[i]d-   | Yo pido   |
+|               | **e**   |  →  | **i**          |           |
+
+]
+
+---
+
+# Verbos irregulares
+
+### Los verbos con el cambio **e** → **ie**
+
+.center[
+.large[
+|     Pensar    |             | &nbsp; |                     |             |
+| :------------ | :---------- | :----- | :------------------ | :---------- |
+| yo            | p**ie**nso  |        | nosotros            | pensamos    |
+| tú            | p**ie**nsas |        | vosotros            | pensáis     |
+| él/ella/usted | p**ie**nsa  |        | ellos/ellas/ustedes | p**ie**nsan |
+]
+]
+
+--
+
+### Ejemplos
+
+- emp.RUred[e]zar
+- pref.RUred[e]rir
+- qu.RUred[e]rer
+- recom.RUred[e]ndar
+
+.footnote[
+.Large[¡.RUred[OJO]! No hay cambio en las formas de **nosotros**/**vosotros**]
+]
+
+---
+
+# Verbos irregulares
+
+### Los verbos con el cambio **o** → **ue**
+
+.center[
+.large[
+|     Volver    |             | &nbsp; |                     |             |
+| :------------ | :---------- | :----- | :------------------ | :---------- |
+| yo            | v**ue**lvo  |        | nosotros            | volvemos    |
+| tú            | v**ue**lves |        | vosotros            | volvéis     |
+| él/ella/usted | v**ue**lve  |        | ellos/ellas/ustedes | v**ue**lven |
+]
+]
+
+--
+
+### Ejemplos
+
+- c.RUred[o]star
+- p.RUred[o]der
+- d.RUred[o]rmir
+
+.footnote[
+.Large[¡.RUred[OJO]! No hay cambio en las formas de **nosotros**/**vosotros**]
+]
+
+---
+
+# Verbos irregulares
+
+### Los verbos con el cambio **e** → **i**
+
+.center[
+.large[
+|     Pedir     |           | &nbsp; |                     |            |
+| :------------ | :-------- | :----- | :------------------ | :--------- |
+| yo            | p**i**do  |        | nosotros            | pedimos    |
+| tú            | p**i**des |        | vosotros            | pedís      |
+| él/ella/usted | p**i**de  |        | ellos/ellas/ustedes | p**i**den  |
+]
+]
+
+--
+
+### Ejemplos
+
+- p.RUred[e]dir
+- s.RUred[e]guir
+- s.RUred[e]rvir
+
+.footnote[
+.Large[¡.RUred[OJO]! No hay cambio en las formas de **nosotros**/**vosotros**]
+]
+
+---
+
+
+# Verbos irregulares
+
+### Jugar: el cambio **u** → **ue**
+
+.center[
+.large[
+|     Jugar     |            | &nbsp; |                     |            |
+| :------------ | :--------- | :----- | :------------------ | :--------- |
+| yo            | j**ue**go  |        | nosotros            | jugamos    |
+| tú            | j**ue**gas |        | vosotros            | jugáis     |
+| él/ella/usted | j**ue**ga  |        | ellos/ellas/ustedes | j**ue**gan |
+]
+]
+
+--
+
+### Ejemplo
+
+- J.RUred[ue]go al golf todos los días.
+
+.footnote[
+.Large[¡.RUred[OJO]! No hay cambio en las formas de **nosotros**/**vosotros**]
+]
+
+---
+
+# Actividad
+
+.pull-left[
+
+### Crowdsourcing un cuento
+
+- Utilizando la lista de verbos que está a la derecha, escribe una frase 
+corta en una hoja de papel. 
+  - Puede ser una frase simple (SVO). 
+  - Intenta usar vocabulario nuevo. 
+
+<p></p>
+
+- Cuando el profesor diga, mándale el cuento a alguien de tu grupo por mensaje 
+**privado**.
+
+<p></p>
+
+- Lee lo que está escrito y añade una frase más. 
+  - Tienes que usar uno de los verbos de la lista. 
+  - Sólo puedes añadir **una** frase. 
+
+<p></p>
+
+- Repite.
+
+]
+
+--
+
+.pull-right[
+
+### Verbos
+
+- jugar
+- querer
+- seguir
+- servir
+- pedir
+- poder
+- dormir
+- empezar
+- costar
+- preferir
+- recomendar
+
+]
+
+
+---
+
+# Precalentamiento
+
+.pull-left[
+
+- En grupos de 3, describid la situación más 
+buena/mala/divertida/rara/graciosa que habéis tenido en un restaurante
+
+- Después de contar vuestras historias, escoged una y haced un mini diálogo 
+para compartir con la clase.
+
+]
