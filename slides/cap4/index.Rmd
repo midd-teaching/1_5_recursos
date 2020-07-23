@@ -482,10 +482,10 @@ background-position: 85% 50%
 
 <div align="center">
   <div style="float: left">
-  <img width="400" src="./assets/img/house1.jpg">
+  <img width="400" src="./assets/img/casa1.jpg">
   </div>
   <div align="right">
-  <img width="400" src="./assets/img/house2.jpg">
+  <img width="400" src="./assets/img/casa2.jpg">
   </div>
 </div>
 
@@ -504,10 +504,10 @@ background-position: 85% 50%
 
 <div align="center">
   <div style="float: left">
-  <img width="400" src="./assets/img/house3.jpg">
+  <img width="400" src="./assets/img/casa3.jpg">
   </div>
   <div align="right">
-  <img width="400" src="./assets/img/house4.png">
+  <img width="400" src="./assets/img/casa4.png">
   </div>
 </div>
 
