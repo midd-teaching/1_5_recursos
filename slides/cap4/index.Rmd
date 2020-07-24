@@ -534,3 +534,33 @@ background-position: 85% 50%
 <div align="center">
   <img width="700" src="./assets/img/muebles2.png">
 </div>
+
+---
+
+# Veo veo
+
+- Escoge un objeto
+
+--
+
+- Describe su ubicación dentro de la habitación con relación a otros objetos
+
+--
+
+- Ej.  
+Veo un objeto  
+Está al lado de la lámpara  
+Está encima del mueble que está al lado de la cama
+
+--
+
+- Si aciertas, ganas un punto
+
+--
+
+- Juega hasta conseguir 5 puntos
+
+---
+background-image: url(./assets/img/room.jpg)
+background-size: contain
+
