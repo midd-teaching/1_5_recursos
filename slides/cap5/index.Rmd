@@ -1,0 +1,216 @@
+---
+title       : "Español 1.5"
+subtitle    : "Capítulo 5"
+author      : "Joseph V. Casillas"
+date        : "Middlebury College | Verano 2020"
+output:
+  xaringan::moon_reader:
+    css: ["hygge", "middlebury", "middlebury-fonts"]
+    lib_dir: assets
+    self_contained: FALSE
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/midd_xaringan/js/midd_xaringan.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: monokai
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: inverse, middle, center
+
+# El presente progresivo
+
+---
+class: title-slide-section-blue, bottom, center
+background-image: url(./assets/img/hacer1.png)
+background-size: contain
+background-position: 50% 50%
+
+# .Large[.blue[¿Qué están haciendo?]]
+
+---
+class: title-slide-section-blue, left
+background-image: url(./assets/img/hacer2.png)
+background-size: contain
+background-position: 100% 50%
+
+# .Large[.white[¿Qué está <br>haciendo?]]
+
+---
+class: title-slide-section-blue, right
+background-image: url(./assets/img/hacer3.png)
+background-size: contain
+background-position: 0% 50%
+
+# .Large[.black[¿Qué está] .white[haciendo?]]
+
+---
+class: title-slide-section-blue
+background-image: url(./assets/img/hacer4.png)
+background-size: contain
+background-position: 100% 50%
+
+# .Large[.white[¿Qué está haciendo?]]
+
+---
+class: title-slide-section-blue, bottom
+background-image: url(./assets/img/hacer5.png)
+background-size: 1250px
+background-position: 50% 50%
+
+# .Large[.white[¿Qué están haciendo?]]
+
+---
+class: title-slide-section-blue, center, bottom
+background-image: url(./assets/img/hacer6.png)
+background-size: contain
+background-position: 50% 50%
+
+# .Large[.white[¿Qué está haciendo?]]
+
+---
+class: title-slide-section-blue, center, bottom
+background-image: url(./assets/img/hacer7.png)
+background-size: contain
+background-position: 50% 50%
+
+# .Large[.white[¿Qué está haciendo?]]
+
+---
+
+# El presente progresivo
+
+- Sirve para hablar de acciones en progreso
+
+<p></p>
+
+- estar + gerundio
+  - -ar = ando
+  - -er/-ir = iendo
+
+--
+
+<p></p>
+</br></br>
+
+1. com**er**
+
+--
+
+2. com
+
+--
+
+3. com + iendo
+
+--
+
+4. comiendo
+
+--
+
+5. Estoy comiendo. 
+
+---
+
+# El presente progresivo
+
+### Formas irregulares
+
+.pull-left[
+
+- pedir, servir, vestir, decir, repetir, seguir
+
+- leer, creer, oír
+
+- dormir
+
+]
+
+--
+
+.pull-right[
+
+- e > i
+
+- y
+
+- o > u
+
+]
+
+---
+class: title-slide-section-blue, bottom
+background-image: url(./assets/img/hacer8.png)
+background-size: contain
+background-position: 100% 50%
+
+# .Large[.white[¿Qué está haciendo?]]
+
+---
+class: title-slide-section-blue, center, bottom
+background-image: url(./assets/img/hacer9.png)
+background-size: contain
+background-position: 50% 50%
+
+# .Large[.white[¿Qué está haciendo?]]
+
+---
+class: title-slide-section-blue, bottom
+background-image: url(./assets/img/hacer10.png)
+background-size: contain
+background-position: 100% 50%
+
+# .Large[.white[¿Qué están haciendo?]]
+
+---
+class: title-slide-section-blue, center, bottom
+background-image: url(./assets/img/hacer11.png)
+background-size: contain
+background-position: 50% 50%
+
+# .Large[.white[¿Qué está haciendo?]]
+
+---
+class: title-slide-section-blue, center, bottom
+background-image: url(./assets/img/hacer12.png)
+background-size: contain
+background-position: 50% 50%
+
+# .Large[.white[¿Qué están haciendo?]]
+
+---
+class: title-slide-section-blue, right, bottom
+background-image: url(./assets/img/hacer13.png)
+background-size: contain
+background-position: 0% 50%
+
+# .Large[.white[¿Qué están haciendo?]]
+
+---
+class: title-slide-section-blue, center
+background-image: url(./assets/img/hacer14.png)
+background-size: contain
+background-position: 50% 50%
+
+# .Large[.white[¿Qué están haciendo?]]
+
+---
+class: title-slide-section-blue, right, center
+background-image: url(./assets/img/hacer15.png)
+background-size: contain
+background-position: 0% 50%
+
+# .Large[.white[¿Qué están haciendo?]]
+
+---
+class: title-slide-section-blue, center, bottom
+background-image: url(./assets/img/hacer16.png)
+background-size: contain
+background-position: 50% 50%
+
+# .Large[.white[¿Qué están haciendo?]]

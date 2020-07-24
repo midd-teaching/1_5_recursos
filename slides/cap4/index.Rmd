@@ -534,4 +534,3 @@ background-position: 85% 50%
 <div align="center">
   <img width="700" src="./assets/img/muebles2.png">
 </div>
-
