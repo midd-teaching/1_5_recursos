@@ -347,6 +347,24 @@ class: title-slide-section-grey, middle
 
 ---
 
+# ¿Qué ves?
+
+<div align="center">
+  <img width="300" src="./assets/img/flan1.png">
+  <img width="300" src="./assets/img/carne.jpg">
+</div>
+
+---
+
+# ¿Qué comes?
+
+<div align="center">
+  <img width="300" src="./assets/img/camarero1.jpg">
+  <img width="500" src="./assets/img/almuerzo1.png">
+</div>
+
+---
+
 # Los complementos directos...
 
 ### Reciben la acción del verbo
@@ -475,24 +493,6 @@ Ej. **ayudar económicamente**
 3. llamar por teléfono con frecuencia
 4. ayudar con los problemas
 5. aconsejar cuando estás indeciso/a
-
----
-
-# ¿Qué ves?
-
-<div align="center">
-  <img width="300" src="./assets/img/flan1.png">
-  <img width="300" src="./assets/img/carne.jpg">
-</div>
-
----
-
-# ¿Qué comes?
-
-<div align="center">
-  <img width="300" src="./assets/img/camarero1.jpg">
-  <img width="500" src="./assets/img/almuerzo1.png">
-</div>
 
 ---
 
