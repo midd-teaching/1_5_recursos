@@ -197,15 +197,15 @@ Your browser does not support the audio element.
 
 **Carmen**: Oye, Silvia, ¿Qué <black>vas a hacer</black> este fin de semana?  
 
-<blue>Silvia</blue>: ¡<black>Voy a estudiar</black>! La próxima semana <black>va a ser</black> muy ajetreada.  
+.RUred[Silvia]: ¡<black>Voy a estudiar</black>! La próxima semana <black>va a ser</black> muy ajetreada.  
 
 **Carmen**: Chica, prácticamente <black>vives</black> en la biblioteca.  
 
-<blue>Silvia</blue>: Sí, <black>es</black> cierto. Pero, ¿sabes?, <black>me gusta estudiar</black>. Mis clases <black>son</black> muy interesantes y <black>me encantan</black> mis profesores.  
+.RUred[Silvia]: Sí, <black>es</black> cierto. Pero, ¿sabes?, <black>me gusta estudiar</black>. Mis clases <black>son</black> muy interesantes y <black>me encantan</black> mis profesores.  
 
 **Carmen**: ¿Y el profesor Suárez?  
 
-<blue>Silvia</blue>: Bueno, él sí <blac>es</blac> quisquilloso. La semana pasada nos <black>dio</black> un examen sobre la época medieval y <black>fue</black> dificilísimo. 
+.RUred[Silvia]: Bueno, él sí <blac>es</blac> quisquilloso. La semana pasada nos <black>dio</black> un examen sobre la época medieval y <black>fue</black> dificilísimo. 
 
 ---
 
@@ -277,55 +277,15 @@ Todos los días estudio por dos o tres horas.
 
 **Carmen**: Oye, Silvia, ¿Qué <black>vas a hacer</black> este fin de semana?  
 
-<blue>Silvia</blue>: ¡<black>Voy a estudiar</black>! La próxima semana <black>va a ser</black> muy ajetreada.  
+.RUred[Silvia]: ¡<black>Voy a estudiar</black>! La próxima semana <black>va a ser</black> muy ajetreada.  
 
 **Carmen**: Chica, prácticamente <black>vives</black> en la biblioteca.  
 
-<blue>Silvia</blue>: Sí, <black>es</black> cierto. Pero, ¿sabes?, <black>me gusta estudiar</black>. Mis clases <black>son</black> muy interesantes y <black>me encantan</black> mis profesores.  
+.RUred[Silvia]: Sí, <black>es</black> cierto. Pero, ¿sabes?, <black>me gusta estudiar</black>. Mis clases <black>son</black> muy interesantes y <black>me encantan</black> mis profesores.  
 
 **Carmen**: ¿Y el profesor Suárez?  
 
-<blue>Silvia</blue>: Bueno, él sí <blac>es</blac> quisquilloso. La semana pasada nos <black>dio</black> un examen sobre la época medieval y <black>fue</black> dificilísimo. 
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-# El pretérito (irregulares)
-
-<div style="float: right">
-  <img width="450" src="./assets/img/cucaracha.jpg">
-</div>
-
-**tener** es tuve,  
-**estar** es estuve  
-**ir** es fui, y tambien **ser**  
-**poner** es puse, **poder** es pude  
-traje es para **traer**  
-
-
-
-**hacer** hice, **haber** hube  
-**saber** supe, **querer** quise  
-**decir** dije, **venir** vine  
-**ver** vi, **dar** di  
-sin acentos
-
-<audio controls>
-  <source src="./assets/videos/pretIrreg.ogg" type="audio/ogg">
-  <source src="./assets/videos/pretIrreg.m4a" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
+.RUred[Silvia]: Bueno, él sí <blac>es</blac> quisquilloso. La semana pasada nos <black>dio</black> un examen sobre la época medieval y <black>fue</black> dificilísimo. 
 
 ---
 
@@ -481,8 +441,8 @@ background-position: 95% 50%
 con + mí = conmigo  
 con + ti = contigo
 
-- **Karmelita**: Oye, Madeline La fiesta es mañana. ¿Quieres ir <black>conmigo</black>?
-- .RUred[Madeline]: No puedo ir <black>contigo</black>, Karmelita Todavía no tengo disfraz. 
+- **Carmen**: Oye, Madeline La fiesta es mañana. ¿Quieres ir <black>conmigo</black>?
+- .RUred[Madeline]: No puedo ir <black>contigo</black>, Carmen Todavía no tengo disfraz. 
 
 <p></p>
 
