@@ -1,0 +1,390 @@
+---
+title       : "Español 1.5"
+subtitle    : "Capítulo 8"
+author      : "Joseph V. Casillas"
+date        : "Middlebury College | Verano 2020"
+output:
+  xaringan::moon_reader:
+    css: ["hygge", "middlebury", "middlebury-fonts"]
+    lib_dir: assets
+    self_contained: FALSE
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/midd_xaringan/js/midd_xaringan.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: monokai
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+background-image: url("./assets/img/crazy1.jpg"), url("./assets/img/crazy2.jpg"), url("./assets/img/crazy3.jpg")
+background-size: 300px
+background-position: 95% 2%, 95% 47%, 95% 90%
+
+# Con un compañero...
+
+### ¿Qué tal el fin de semana?
+
+.pull-left[
+
+- Con un/a compañer@, desarrollad un cuento corto (9-10 frases) acerca de lo que van a hacer
+estas 'personas' durante el fin de semana (escoged una imagen).
+- Después de terminar el cuento haced una lista de todos los verbos
+- Marcad... 
+  - el tiempo verbal (pretérito, presente perfecto, presente, presente progresivo)
+  - la persona
+  - si es singular o plural
+
+]
+
+--
+
+.footnote[
+
+- Cambiad el cuento al pasado (i.e., lo que hicieron durante el fin de </br> 
+semana pasado)
+
+]
+
+---
+class: inverse, middle
+
+<div style="float:right">
+  <img width="350" src="./assets/img/uglycat.jpg">
+</div>
+
+### Era una noche fría de invierno. Yo estaba en casa, sola y 
+### aburrida. Bueno, no estaba completamente sola, porque 
+### allí a mi lado, tenía mi gato. Mi gato se llamaba Tigre y 
+### era un gato de esos egoístas y fríos. Normalmente, Tigre 
+### pasaba la noche en el dormitorio donde dormía debajo de mi cama. Pero esa noche parecía un 
+### poco nervioso y se escondía detrás de los cojines del sofá. De repente, Tigre saltó del sofá 
+### y corrió a la puerta. Yo lo seguí y abrí la puerta con cuidado...
+
+---
+class: inverse, middle
+
+<div style="float:right">
+  <img width="350" src="./assets/img/uglycat.jpg">
+</div>
+
+### .RUred[Era] una noche fría de invierno. Yo .RUred[estaba] en casa, sola y 
+### aburrida. Bueno, no .RUred[estaba] completamente sola, porque 
+### allí a mi lado, .RUred[tenía] mi gato. Mi gato se .RUred[llamaba] Tigre y 
+### .RUred[era] un gato de esos egoístas y fríos. Normalmente, Tigre 
+### .RUred[pasaba] la noche en el dormitorio donde .RUred[dormía] debajo de mi cama. Pero esa noche .RUred[parecía] un 
+### poco nervioso y se .RUred[escondía] detrás de los cojines del sofá. De repente, Tigre saltó del sofá 
+### y corrió a la puerta. Yo lo seguí y abrí la puerta con cuidado...
+
+---
+class: inverse, middle, center
+
+# El imperfecto
+
+---
+
+# El imperfecto 
+
+## En un cuento, el imperfecto describe el trasfondo de la historia y crea una imagen. 
+
+--
+
+### .RUred[Era] una noche fría de invierno. Yo .RUred[estaba] en casa, sola y aburrida. Bueno, no .RUred[estaba] completamente sola, porque allí a mi lado, .RUred[tenía] mi gato. Mi gato se .RUred[llamaba] Tigre y .RUred[era] un gato de esos egoístas y fríos. Normalmente, Tigre .RUred[pasaba] la noche en el dormitorio donde .RUred[dormía] debajo de mi cama. Pero esa noche .RURed[parecía] un poco nervioso y .RUred[se escondía] detrás de los cojines del sofá.
+
+--
+
+.pull-left[
+
+- la hora, la fecha, el lugar
+- describir el lugar, a los personajes
+
+]
+
+.pull-right[
+
+- describir las costumbres
+- ¿Qué pasa en este momento?
+
+]
+
+---
+
+# El pretérito
+
+## En un cuento, el pretérito narra los eventos importantes del cuento.
+
+--
+
+### Era una noche fría de invierno. Yo estaba en casa, sola y aburrida. Bueno, no estaba completamente sola, porque allí a mi lado, tenía mi gato. Mi gato se llamaba Tigre y era un gato de esos egoístas y fríos. Normalmente, Tigre pasaba la noche en el dormitorio donde dormía debajo de mi cama. Pero esa noche parecía un poco nervioso y se escondía detrás de los cojines del sofá.  
+###<black>*De repente*, Tigre **saltó** del sofá y **corrió** a la puerta. Yo lo **seguí** y **abrí** la puerta con cuidado.
+
+---
+
+# En combinación...
+
+- Describimos más con **el imperfecto**. 
+- Continuamos y resumimos con <blue>el pretérito</blue>.
+
+<p></p>
+
+--
+
+### .RUred[El imperfecto]:
+
+- Afuera, .RUred[nevaba] un poco.
+- La luna .RUred[brillaba] como el sol, pero afuera no se .RUred[veía] a nadie.
+
+<p></p>
+
+--
+
+### **El pretérito**:
+
+- **Cerré** la puerta y **volví** a sentarme en el sofá. 
+- **Fue** una experiencia un poco inquietante.
+
+---
+class: inverse, middle
+
+<div style="float:right">
+  <img width="350" src="./assets/img/uglycat.jpg">
+</div>
+
+### .RUred[Era] una noche fría de invierno. Yo .RUred[estaba] en casa, sola y 
+### aburrida. Bueno, no .RUred[estaba] completamente sola, porque 
+### allí a mi lado, .RUred[tenía] mi gato. Mi gato se .RUred[llamaba] Tigre y 
+### .RUred[era] un gato de esos egoístas y fríos. Normalmente, Tigre 
+### .RUred[pasaba] la noche en el dormitorio donde .RUred[dormía] debajo de mi cama. Pero esa noche .RUred[parecía] un 
+### poco nervioso y se .RUred[escondía] detrás de los cojines del sofá. De repente, Tigre saltó del sofá 
+### y corrió a la puerta. Yo lo seguí y abrí la puerta con cuidado...
+
+---
+
+
+# El pretérito y el imperfecto: 
+
+.pull-left[
+
+### **¿Cómo era?**
+
+]
+
+.pull-right[
+
+### .RUred[¿Qué pasó?]
+
+]
+
+### **Había** una vez una princesa muy hermosa. Una tarde de primavera, la princesa **cantaba** y **paseaba** por el parque del palacio cuando .black[de repente] .RUred[oyó] una voz muy bajita. .RUred[Miró] a su alrededor y .RUred[vio] un sapo que le **sonreía** desde el suelo...
+
+---
+
+# El pretérito y el imperfecto: 
+
+- **Dos acciones**: el imperfecto describe las acciones continuas y simultáneas.
+
+<p></p>
+
+- **Palabras importantes**: 
+  - mientras
+  - mientras tanto
+
+<p></p>
+
+- Ángel .RUred[miraba] el desfile en la televisión mientras yo .RUred[cocinaba].
+
+--
+
+<div align="center">
+  <img width="1000" src="./assets/img/imperfecto3.png">
+</div>
+
+---
+
+# El pretérito y el imperfecto: 
+
+- El pretérito **narra** una serie de acciones completadas.
+
+- Después de mirar el desfile, Ángel **llamó** a su amiga y la **invitó** 
+a salir. Primero **fueron** al cine y luego **miraron** los fuegos artificiales. 
+
+--
+
+<div align="center">
+  <img width="1000" src="./assets/img/imperfecto4.png">
+</div>
+
+---
+
+# El pretérito y el imperfecto: 
+
+- .RUred[El imperfecto] expresa una acción continua. 
+- **El pretérito** expresa su interrupción.
+
+<p></p>
+
+- Palabras importantes: 
+  - mientras.... (el imperfecto)
+  - cuando (el pretérito)
+
+<p></p>
+
+- **Empezó** a llover mientras .RUred[hacíamos] nuestro picnic.
+
+--
+
+<div align="center">
+  <img width="900" src="./assets/img/imperfecto5.png">
+</div>
+
+---
+
+# Ejercicios
+
+<div style="float: right">
+  <img width="575" src="./assets/img/imperfecto3.png"></br></br>
+  <img width="575" src="./assets/img/imperfecto4.png"></br></br>
+  <img width="575" src="./assets/img/imperfecto5.png">  
+</div>
+
+- 2, p. 290
+- 8-20, p. 291
+
+---
+background-image: url("./assets/img/resumen.png")
+background-size: contain
+
+---
+
+background-image: url("./assets/img/maya1.JPG")
+background-size: 750px
+background-position: 130% 50%
+class: inverse
+
+# .RUred[Maya]
+
+### Érase una vez una golden retriever que  
+### .RUred[se llamaba] Maya. Maya .RUred[era] la perra más  
+### bonita y mejor portada de toda la ciudad
+### de Tucson. Le .RUred[brillaba] el pelo y .RUred[sonreía]  
+### sin parar. Le .RUred[gustaba] mucho perseguir a los  
+### otros animales y siempre .RUred[quería] jugar con  
+### todo el mundo.
+
+---
+background-image: url("./assets/img/maya2.JPG")
+background-size: 1220px
+background-position: 50% -90%
+background-color: #C0C0C0
+class: middle
+
+</br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
+</br>
+
+### El mejor amigo de Maya .RUred[se llamaba] Joseph. .RUred[Era] estudiante graduado y siempre .RUred[estaba] muy ocupado con sus clases. A Joseph .RUred[le encantaba] jugar con Maya, pero a veces no .RUred[podía] porque .RUred[tenía] mucho trabajo. 
+
+---
+background-image: url("./assets/img/maya3.gif")
+background-size: 750px
+background-position: 140% 50%
+class: inverse, middle
+
+### A Maya no .RUred[le importaban] las clases de Joseph.  
+### Ella .RUred[creía] que Joseph .RUred[trabajaba] demasiado e  
+### .RUred[intentaba] recordarle de vez en cuando que .RUred[era] 
+### necesario tener tiempo para jugar también.
+
+---
+background-image: url("./assets/img/maya4.JPG")
+background-size: 1300px
+background-position: 60% 40%
+class: bottom, inverse
+
+### Un día Joseph y Maya .purple[fueron] al parque. .RUred[Hacía] mucho sol y no .RUred[había] nadie más ahí. .RUred[Hacía] un día estupendo. Joseph .purple[decidió] llevar su trabajo de clase para poder estudiar mientras Maya .RUred[jugaba]. 
+
+---
+
+# Maya
+
+<div style="float:right">
+  <video width="450" allowfullscreen controls>
+    <source src="./assets/videos/maya.mp4" type="video/mp4">
+    <source src="./assets/videos/maya.ogg" type="video/ogg">
+  </video>
+</div>
+
+.pull-left[
+
+### Pero a Maya no .RUred[le importaban] las clases ni la tarea de Joseph. De repente Maya .purple[se dio] cuenta de Joseph no le .RUred[prestaba] atención y .purple[empezó] a correr hacia él lo más rápido que .RUred[podía].
+
+]
+
+--
+
+.pull-left[
+
+### Cuando Joseph .purple[se dio] cuenta, ya .RUred[era] demasiado tarde. Maya .purple[chocó] con él a toda velocidad y .purple[rompió] su teléfono. Confundido y algo dolido, Joseph .purple[decidió] que nunca más .RUred[iba] a llevar su trabajo al parque. 
+
+]
+
+---
+background-image: url("./assets/img/mayaFinal1.jpg"), url("./assets/img/mayaFinal2.jpg")
+background-size: 600px, 700px
+background-position: 0% 50%, 100% 50%
+class: bottom, center
+
+# ¡.RUred[Fueron felices y comieron perdices]!
+
+---
+background-image: url("./assets/img/mayaFinal3.png")
+background-size: contain
+class: center, middle, inverse
+
+# Fin
+
+---
+
+
+# El imperfecto
+
+1)     
+- **Dos acciones**: el imperfecto describe las acciones continuas y simultáneas.
+
+<div align="center">
+  <img width="600" src="./assets/img/imperfecto3.png">  
+</div>
+
+2)    
+- El pretérito **narra** una serie de acciones completadas.
+
+<div align="center">
+  <img width="600" src="./assets/img/imperfecto4.png">  
+</div>
+
+---
+
+# El imperfecto
+
+3)    
+- El imperfecto expresa una **acción continua**.  
+- El pretérito expresa su <blue>interrupción</blue>.
+
+<div align="center">
+  <img width="600" src="./assets/img/imperfecto5.png">  
+</div>
+
+---
+
+# Más práctica
+
+<div style="float: right">
+  <img width="575" src="./assets/img/imperfecto3.png"></br></br>
+  <img width="575" src="./assets/img/imperfecto4.png"></br></br>
+  <img width="575" src="./assets/img/imperfecto5.png">  
+</div>
+
+- Escribe dos ejemplos de cada situación
