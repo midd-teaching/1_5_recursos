@@ -232,6 +232,46 @@ background-size: contain
 
 ---
 
+.pull-left[
+.content-box-blue[
+### **El pretérito**
+
+- UNA acción o evento que ocurrió UNA vez.
+- una SERIE de acciones en el pasado.
+- una acción que DURÓ un tiempo específico.
+- UN EVENTO ESPECÍFICO en el pasado.
+- Palabras asociadas al pretérito:  
+ayer, la semana pasada, el año pasado, primero, luego
+antes de/después de + infinitivo, por último
+
+]
+]
+
+--
+
+.pull-right[
+.content-box-red[
+### .RUred[El imperfecto]
+
+- describe el trasfondo de la historia, crea una imagen
+- describe la hora, la fecha, el lugar, a los personajes, las costumbres
+- explica qué estaba pasando en un momento del pasado
+
+]
+]
+
+--
+
+### El pretérito y el imperfecto para narrar
+
+- Describimos más con el imperfecto.
+- Continuamos y resumimos con el pretérito
+
+1. Dos acciones que ocurren al mismo tiempo
+2. Una secuencia de acciones completadas 
+3. Una acción que interrumpe otra acción continua
+
+---
 background-image: url("./assets/img/maya1.JPG")
 background-size: 750px
 background-position: 130% 50%
