@@ -237,7 +237,7 @@ background-size: contain
 ### **El pretérito**
 
 - UNA acción o evento que ocurrió UNA vez.
-- una SERIE de acciones en el pasado.
+- una SERIE de acciones completadas en el pasado.
 - una acción que DURÓ un tiempo específico.
 - UN EVENTO ESPECÍFICO en el pasado.
 - Palabras asociadas al pretérito:  
