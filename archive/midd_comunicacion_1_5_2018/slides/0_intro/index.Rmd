@@ -60,7 +60,7 @@ class: title-slide-section-grey
 # .white[Soy padre]
 
 ---
-background-image: url("./assets/img/niko.png")
+background-image: url("./assets/img/test.png")
 background-size: contain
 
 # .white[Soy padre]
