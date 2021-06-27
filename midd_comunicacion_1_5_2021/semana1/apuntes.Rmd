@@ -1,14 +1,16 @@
 # Semana 1
 
-## Lunes, 29 de junio
+## Lunes, 28 de junio
 
 ### Plan
 
+Mosaicos Cap. 1 (includes prelim.)
 Preliminar 1: Bienvenidos  
 
-- Funciones: Presentaciones y despedidas
-	- P.1.1 Vocabulario en contexto: Las presentaciones
-	- P.1.2 Vocabulario en contexto: Los saludos y las despedidas
+- Funciones y formas: 
+  - Presentaciones y despedidas
+  - Descripciones de personas
+  - presente
 
 ### Detalles
 
@@ -22,26 +24,27 @@ Preliminar 1: Bienvenidos
 	- sugerencias para tener éxito
 - quienes sois?
 	- rompehielos virtual
+- Presentación de Cap. prelim. (primeras diapositivas)
+	- presentarse
+	- descripción con ser
+	- (saltar "vocab útil")
 
 ### Tarea
 
 - Apuntarse al mylab/libro
 - Repasar el programa
-- Explorar la página moodle (go.middlebury.edu/hub)
-- Estudiar el vocabulario
+- Explorar la página canvas (go.middlebury.edu/hub)
 
 ### Comentarios
 
-- No se terminó el rompehielos, hay que retomar eso mañana de alguna forma
-- todo más o menos bien 
-- confusión en cuanto a mylab y aún hay estudiantes sin acceso a canvas
+- 
 
 
 
 
 
 
-## Martes, 30 de junio
+## Martes, 29 de junio
 
 ### Plan
 
