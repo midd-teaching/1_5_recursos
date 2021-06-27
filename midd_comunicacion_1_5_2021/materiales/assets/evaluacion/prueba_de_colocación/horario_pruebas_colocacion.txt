@@ -1,0 +1,87 @@
+Rockegityloc8(
+
+Prueba escrita
+
+| Name              | Email                     | Testers | Present |
+| :---------------- | :------------------------ | :------ | :------ |
+| Anderson Suzanne  | suzannea@middlebury.edu   | JC/AB   |         |
+| Cao Hui           | hcao@middlebury.edu       | JC/AB   |         |
+| D Vince           | vd@middlebury.edu         | JC/AB   |  x      |
+| G Nick            | ng@middlebury.edu         | JC/AB   |         |
+| Kayes Anna        | akayes@middlebury.edu     | JC/AB   |  x      |
+| McKinley Leona    | lmckinley@middlebury.edu  | JC/AB   |  x      |
+| Palekar Aditya    | apalekar@middlebury.edu   | JC/AB   |         |
+| S Rick            | ricks@middlebury.edu      | JC/AB   |         |
+| Smith Tremaine    | tnsmith@middlebury.edu    | JC/AB   |         |
+| Stokes Emily      | stokes@middlebury.edu     | JC/AB   |  x      |
+| Finnegan Lisa     | lfinnegan@middlebury.edu  | JC/AB   |  x      |
+| Angelakos Stella  | sangelakos@middlebury.edu | JC/AB   |         |
+| Arieli Chai Hagit | harelichai@middlebury.edu | JC/AB   |         |
+
+adds: 
+Mary Hill
+
+no shows: 
+Anderson Suzanne
+Cao Hui
+G Nick
+Palekar Aditya
+Smith Tremaine
+Angelakos Stella
+Arieli Chai Hagit
+
+
+
+
+Prueba oral
+
+| Name              | Email                     | Time         | Testers |
+| :---------------- | :------------------------ | :----------- | :------ |
+| Angelakos Stella  | sangelakos@middlebury.edu | 11:40 AM EDT | JC/AB   | x
+| C Hayley          | hc@middlebury.edu         | 11:50 am EDT | JC/AB   | x
+| D Adam            | adamd@middlebury.edu      | 12:00 pm EDT | JC/AB   | x
+| Erickson Sarah    | serickson@middlebury.edu  | 12:10 pm EDT | JC/AB   | x
+| Hemond Rachel     | rhemond@middlebury.edu    | 12:20 pm EDT | JC/AB   | x
+| Mann Michelle     | mm5@middlebury.edu        | 13:00 pm EDT | JC/AB   | x
+| S Jennifer        | js4@middlebury.edu        | 13:20 pm EDT | JC/AB   | x
+| Vrahiotes Aaron   | avrahiotes@middlebury.edu | 13:30 pm EDT | JC/AB   | 
+| W Marcus          | marcusw@middlebury.edu    | 13:40 pm EDT | JC/AB   | x
+| Arieli Chai Hagit | harelichai@middlebury.edu | 13:50 pm EDT | JC/AB   | x
+| Wright Samuel     | samuelw@middlebury.edu    | 13:50 pm EDT | JC/AB   | x
+| Chavez Marina     | mchavez@middlebury.edu    | 14:00 pm EDT | JC/AB   | x
+
+no show: Vrahiotes Aaron
+
+adds: 
+S Rick (escritura)
+
+para bajar: jennifer 
+no se: adam, rick
+
+##############
+
+BAJAR (a 1)
+
+- Jennifer S
+- Steven de la fuente
+- Rick S
+
+SUBIR (de 1)
+
+- Michael S
+- Laura Mamczevsky
+- Alexis Roberts
+- Nour Robleh
+
+
+Subir (de 1.5 a 2)
+
+- Lisa F
+- Robert Sanchez (de 1)
+- Beau
+
+Bajar (de 2 a 1.5)
+
+- Lucero Madison
+
+

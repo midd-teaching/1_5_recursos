@@ -1,0 +1,118 @@
+/* 
+CSS for xaringan slides
+Author: Joseph V. Casillas
+Updated: 1/21/2017
+*/
+
+
+
+/*
+MY CHANGES
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Maven+Pro);
+
+
+/* Add image and change bg color */
+.title-slide {
+  background-image: url(../../../site_libs/assets/img/0_middlebury_seal.png);
+  background-position: 9% 15%;
+  background-size: 65px; 
+  background-color: #fff;
+  padding-left: 100px;  /* delete this for 4:3 aspect ratio */
+}
+
+/* H1 fonts */
+.title-slide h1 {
+  color: #515151;
+  padding-top: 250px;
+  font-weight: normal;
+  font-size: 55px;
+  line-height: 0.05;
+  text-align: left;
+  text-shadow: none;
+  padding-bottom: 18px;
+  margin-bottom: 18px;
+}
+
+/* H2 fonts */
+.title-slide h2 {
+  color: #cc0033;
+  font-size: 35px;
+  text-align: left;
+  text-shadow: none;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+/* H3 fonts */
+.title-slide h3 {
+  font-size: 28px;
+  font-weight: normal;
+  color: #666666;
+  text-align: left;
+  text-shadow: none;
+  padding: 0px;
+  margin: 0px;
+  line-height: 1;
+}
+
+.title-slide .remark-slide-number {
+  text-shadow: none;
+  display: none;
+}
+
+
+
+/* Make bold syntax compile to red*/
+strong {
+  color: #cc0033 !important;
+}
+
+/* Add BLUE tag*/
+blue {
+  color: #0000CC;
+  font-weight: bold;
+}
+
+grey {
+  color: #515151;
+}
+
+white {
+  color: white;
+}
+
+black {
+  font-weight: bold;
+}
+
+/* Add padding to all slides for 16:9 aspect ration */
+.remark-slide-content {
+  padding-left: 100px;  /* delete this for 4:3 aspect ratio */
+}
+
+
+h1 {
+  color: #cc0033;
+  text-shadow: none;
+}
+
+h3 {
+  color: #515151;
+}
+
+/* Add vertical stripe on left side (still working on this)
+.verticalStrip {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 7px;
+  background-color: #cc0033;
+  height:100%;
+}
+
+*/
+
+
+
