@@ -2,7 +2,7 @@
 title       : "Español 1.5"
 subtitle    : "Introducción"
 author      : "Joseph V. Casillas"
-date        : "Middlebury College | Verano 2020"
+date        : "Middlebury College | Verano 2021"
 output:
   xaringan::moon_reader:
     css: ["hygge", "middlebury", "middlebury-fonts"]
@@ -60,7 +60,14 @@ class: title-slide-section-grey
 # .white[Soy padre]
 
 ---
-background-image: url("./assets/img/ali.jpeg")
+background-image: url("./assets/img/ali2.png")
+background-size: contain
+class: title-slide-section-grey
+
+# .white[Soy padre]
+
+---
+background-image: url("./assets/img/niko.png")
 background-size: contain
 class: title-slide-section-grey
 
@@ -218,13 +225,12 @@ background-size: contain
 
 .right-column[
 
-## Texto obligatorio:
+## Texto:
 
-- Unidos: An Interactive Approach (3rd Ed). Guzmán, E., Lapuerta, P., Liskin-Gasparro, J. (2020).
+- Mosaicos: Spanish as a World Language (ebook with access to MySpanishLab/online homework. ISBN-13: 9780135595046, Edition: 7th edition (2020)  
+Authors: Elizabeth Guzmán, Paloma Lapuerta, Judith Liskin-Gasparro, Matilde Castells
 
 ## Online Materials: 
-
-- MyLab Spanish for Unidos: An Interactive Approach (3rd Ed). Guzmán, E., Lapuerta, P., Liskin-Gasparro, J. (2020). 
 
 - Materiales en internet a través de go.middlebury.edu/hub
 ]
@@ -281,11 +287,11 @@ de conjugar en español**.  Mateo & Rojo Sastre
 
 |         |        |        |       |
 |:--------|-------:|:-------|------:|
-|  **A**  | 94-100 | **C+** | 77-79 |
-|  **A-** | 90-93  | **C**  | 74-76 |
-|  **B+** | 87-89  | **C-** | 70-73 |
-|  **B**  | 84-86  | **D**  | 64-69 |
-|  **B-** | 80-83  | **F**  | 0-64  |
+|  **A**  | 93-100 | **C+** | 77-79 |
+|  **A-** | 90-92  | **C**  | 73-76 |
+|  **B+** | 87-89  | **C-** | 70-72 |
+|  **B**  | 83-86  | **D**  | 60-69 |
+|  **B-** | 80-82  | **F**  | 0-59  |
 
 
 </br>
@@ -326,6 +332,13 @@ de conjugar en español**.  Mateo & Rojo Sastre
 class: center, middle
 
 # Apender una lengua en línea
+
+# .Large[?]
+
+---
+class: center, middle
+
+# ~~Apender una lengua en línea~~
 
 # .Large[?]
 
@@ -386,10 +399,9 @@ oral.
 </div>
 
 - [Actividades cocurriculares](https://schoolofspanish.middcreate.net/elboletin/actividades-co-curriculares/)  
-	- ~~el teatro~~
-	- ~~el baile~~
+	- el teatro
+	- el baile
 	- **la clínica de pronunciación**
-	- [Mesas zunzún](https://schoolofspanish.middcreate.net/elboletin/event/zona-zunzun-2/)
 
 - Madrinos/padrinos  
 	- hacer amigos con más nivel
@@ -415,25 +427,12 @@ oral.
 
 #### ¿Cuándo?
 
-- Todos los días (menos fin de semana)
-- 14:10 – 19:00 EDT
-
-#### ¿Dónde?
-
-- Zoom
-- https://schoolofspanish.middcreate.net/elboletin/tutorias/
+- Ver horarios en el boletín o la página de la escuela
 
 #### ¿Qué más?
 
 - Turnos de 20 minutos
 - Hay que tener dudas concretas 
-
----
-background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/tired.png)
-background-position: 95% 50%
-class: inverse, center, middle
-
-# Descanso (2 minutos)
 
 ---
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/partner.gif)
@@ -459,7 +458,6 @@ background-size: 400px, 500px
 
 ### Rompehielos
 
-
 ---
 background-image: url(./assets/img/rompehielos.png)
 background-position: 95% 50%
@@ -477,11 +475,8 @@ Escribe las cosas que tenéis en común.
 3. Quiero saber más sobre... 🤔
 
 ---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/tired.png)
+background-position: 95% 50%
+class: inverse, center, middle
 
-# Para mañana...
-
-- Apuntarse al mylab/libro
-- Repasar el programa
-- Explorar la página canvas (go.middlebury.edu/hub)
-- Estudiar el vocabulario (capítulo preliminar)
-
+# Descanso (10 minutos)
