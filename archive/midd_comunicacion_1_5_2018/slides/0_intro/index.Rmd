@@ -2,7 +2,7 @@
 title       : "Español 1.5"
 subtitle    : "Introducción"
 author      : "Joseph V. Casillas"
-date        : "Middlebury College | Verano 2018"
+date        : "Middlebury College | Verano 2021"
 output:
   xaringan::moon_reader:
     css: ["hygge", "middlebury", "middlebury-fonts"]
@@ -18,11 +18,6 @@ output:
 
 ```{r setup, include=FALSE, cache=FALSE}
 options(htmltools.dir.version = FALSE)
-```
-
-```{r, eval=FALSE, echo=FALSE, cache=FALSE}
-rmarkdown::render("./slides/0_intro/index.Rmd")
-xaringan::inf_mr()
 ```
 
 class: inverse, center, middle
@@ -58,9 +53,15 @@ background-image: url("./assets/img/perros1.png")
 background-size: contain
 
 ---
-background-image: url("./assets/img/ali.png")
+background-image: url("./assets/img/ali2.png")
 background-size: contain
 class: title-slide-section-grey
+
+# .white[Soy padre]
+
+---
+background-image: url("./assets/img/niko.png")
+background-size: contain
 
 # .white[Soy padre]
 
