@@ -42,6 +42,10 @@ options(htmltools.dir.version = FALSE)
 - Usad la versión electrónica de MyLab
 - Se puede comprar la versión anterior (posiblemente) por Amazon
 
+???
+
+Repaso, recordatorio de ayer
+
 ---
 background-image: url(./assets/img/clase.png)
 background-size: 650px
@@ -53,23 +57,75 @@ background-size: 650px
 Discutir imagen, se entiende?, qué falta?
 
 ---
+
+# Instrucciones básicas
+
+- **Abran/Cierren** el libro en la página...
+
+- **Trabajad** con un compañero.
+
+- **Escuchen** a la profesora.
+
+- **Leed** la información.
+
+- **Contesten** en español.
+
+- **Escribid** vuestros nombres.
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/confused.png)
+background-position: 95% 30%
+background-size: 300px
+
+# Para hablar con la gente (1)
+
+- ¿Cómo se dice... ?
+
+- Con permiso/Perdón.
+
+- Gracias... De nada.
+
+- Sí/No
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
+background-position: 95% 30%
+background-size: 300px
+
+# Para hablar con la gente (2)
+
+- Más despacio, por favor.
+
+- ¿Puede repetir, por favor?
+
+- ¿Qué quiere decir... ?
+
+- ¿En qué página?
+
+- Tengo una pregunta.
+
+---
 background-image: url(./assets/img/vc1.png)
 background-size: 650px
 background-position: 50% 70%
+exclude: true
 
 # Vocabulario útil de la clase (versión zoom)
 
 ### ¿Qué palabras, frases, expresiones son importantes para nuestra clase virtual?
 
 ---
+exclude: true
 background-image: url(./assets/img/vc2.png)
 background-size: contain
 
 ---
+exclude: true
 background-image: url(./assets/img/vc3.png)
 background-size: contain
 
 ---
+exclude: true
 
 # Vocabulario útil de la clase (versión zoom)
 
@@ -149,34 +205,7 @@ background-size: contain
 - elle, elles
 
 ---
-
-# Para el jueves
-
-- Apuntarse al mylab/libro
-- Repasar el programa
-- Explorar la página moodle (go.middlebury.edu/hub)
-- Estudiar el vocabulario
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
+exclude: true
 class: inverse, center, middle
 
 # Práctica extra
@@ -184,7 +213,7 @@ class: inverse, center, middle
 ### Para sobrevivir
 
 ---
-
+exclude: true
 # Plan
 
 - Para presentarnos
@@ -222,54 +251,7 @@ class: inverse, center, middle
 - ~~Me llamo es Sara~~
 
 ---
-
-# Instrucciones básicas
-
-- **Abran/Cierren** el libro en la página...
-
-- **Trabajad** con un compañero.
-
-- **Escuchen** a la profesora.
-
-- **Leed** la información.
-
-- **Contesten** en español.
-
-- **Escribid** vuestros nombres.
-
----
-background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/confused.png)
-background-position: 95% 30%
-background-size: 300px
-
-# Para hablar con la gente (1)
-
-- ¿Cómo se dice... ?
-
-- Con permiso/Perdón.
-
-- Gracias... De nada.
-
-- Sí/No
-
----
-background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
-background-position: 95% 30%
-background-size: 300px
-
-# Para hablar con la gente (2)
-
-- Más despacio, por favor.
-
-- ¿Puede repetir, por favor?
-
-- ¿Qué quiere decir... ?
-
-- ¿En qué página?
-
-- Tengo una pregunta.
-
----
+exclude: true
 
 # ¿Qué se dice?
 

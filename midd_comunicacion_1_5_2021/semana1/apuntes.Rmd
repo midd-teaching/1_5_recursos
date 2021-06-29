@@ -37,7 +37,8 @@ Preliminar 1: Bienvenidos
 
 ### Comentarios
 
-- 
+- No llegamos a terminar (como siempre)
+
 
 
 
@@ -48,55 +49,99 @@ Preliminar 1: Bienvenidos
 
 ### Plan
 
-Preliminar 1: Bienvenidos  
+Mosaicos Capítulo 1 (cap. prelim.)
 
-- Funciones: Saludos, presentarse
-	- P.1.6 Vocabulario en contexto: Expresiones útiles en la clase
-	- P.1.7 Vocabulario en contexto: El alfabeto
-	- P.4.1 Gramática en contexto: Singular forms of ser
+- Artículos y sustantivos, 
+- estar
 
 ### Detalles
 
-- canvas, mylab, libro 
-- Vocabulario útil de la clase (versión zoom)
-- Saludos, presentarse, despedirse (whiteboard)
-- verbo ser
-- alfabeto (que lo revisen en casa)
+- Del lunes... el verbo ser
+- Vocabulario básico de la clase 
+	- actividad (¿qué ves? ¿qué es?)
+- Los sustantivos
+	- género
+	- número
+- Los artículos
+	- definidos
+	- indefinidos
+	- actividades p1 y p2
+- DESCANSO
+- El abecedario
+	- el ahoracado
+- Los números
+	- actividad p4
+- Hasta 18 de cap. 1 (si puedes)
 
 ### Tarea
 
 - Apuntarse al mylab/libro
 - Repasar el programa
-- Explorar la página moodle (go.middlebury.edu/hub)
+- Explorar la página canvas
 - Estudiar el vocabulario
 
 ### Comentarios
 
-- Bastante bien
-- Hay que jugar más con la pizarra interactiva (para que todo el mundo la puede usar)
-- breakout rooms molan
+- 
 
 
 
 
 
 
-## Miércoles, 1 de julio
 
-### Reunión de nivel
 
-- qué tal los primeros días?
-	- zoom
-	- canvas
-	- mylab
-- zoom channel
-	- para las clases
-	- para nosotros
-- horario para las reuniones
-- oratory coaching 
-	- 6 de julio
-- Mesa redonda - Racismo, lenguaje y comunidad
-	- hay que invitar a los de 1 para hablar (a la 1:30)
+
+## Miércoles, 30 de junio
+
+### Plan
+
+- Hasta diapositiva 63 (empezando en la 31)
+
+Gramática:
+
+- Pronombres personales
+- verbos: Estar, ser, tener, ir
+
+### Tarea (opcional, por myspanishlab)
+
+- Usar **estar**, **ser**, **tener** e **ir** en conversaciones reales
+- Estudiar el vocabulario
+- Ejercicios opcionales
+	- Vocabulario en contexto
+		- TXT 0P-05, 0P-16
+		- SAM 0P-21, 0P-22, 0P-23, 0P-26
+	- Funciones y formas: 1
+		- SAM 0P-36, 0P-37
+
+- Repasar los pronombres personales
+- Repasar 'tarea', verbos (ser, estar, tener, ir), actividad
+- Paso 2  
+- Vocabulario:
+	- La familia
+
+- Gramática:
+	- Posesión
+	- Verbos regulares
+
+- Cómo presentar a un amigo
+	- enseñar la rúbrica
+	- se permite una tarjeta
+- Cómo se graba un mp3
+
+
+### Tarea
+
+- Presentación de un compañero
+
+### Comentarios
+
+
+
+
+
+
+
 
 
 

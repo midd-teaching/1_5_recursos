@@ -2,7 +2,7 @@
 title       : "Español 1.5"
 subtitle    : "Capítulo 1"
 author      : "Joseph V. Casillas"
-date        : "Middlebury College | Verano 2020"
+date        : "Middlebury College | Verano 2021"
 output:
   xaringan::moon_reader:
     css: ["hygge", "middlebury", "middlebury-fonts"]
@@ -47,6 +47,124 @@ background-position: 120%
 class: title-slide-section-blue
 
 # El ahorcado
+
+---
+background-image: url(./assets/img/estados.png)
+background-size: 650px
+background-position: 100% 70%
+
+# ¿Cómo estás?: Los estados y el verbo estar
+
+**Yo estoy \_\_\_\_**  
+
+Ej. Yo estoy cansado(a)
+
+---
+
+# Los pronombres personales
+
+</br>
+
+|    |    |  Singular      |    | Plural              |
+|:---| :- | :--------------| :- | :------------------ |
+| 1a |    |  yo            |    | nosotros/as         |
+| 2a |    |  tú            |    | vosotros/as         |
+| 3a |    |  él/ella/usted |    | ellos/ellas/ustedes |
+| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+
+--
+
+Pronombres no binarios: elle, elles, nosotres, vosotres
+
+---
+
+# El verbo estar
+
+</br>
+
+|    |    |  Singular              |    | Plural                        |
+|:---| :- | :--------------------- | :- | :---------------------------- |
+| 1a |    | yo **estoy**           |    | nosotros/as **estamos**       |
+| 2a |    | tú **estás**           |    | vosotros/as **estáis**        |
+| 3a |    | él/ella/usted **está** |    | ellos/ellas/ustedes **están** |
+| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/confused.gif)
+background-size: contain
+background-position: 110% 50%
+
+# ¿Cómo está(n)?
+
+---
+background-image: url(./assets/img/esta1.png)
+background-size: 600px
+background-position: 50% 60%
+
+# ¿Cómo está(n)?
+
+---
+background-image: url(./assets/img/esta2.png)
+background-size: 600px
+background-position: 50% 70%
+
+# ¿Cómo está(n)?
+
+---
+background-image: url(./assets/img/esta3.png)
+background-size: contain
+background-position: 100%
+
+# ¿Cómo está(n)?
+
+---
+background-image: url(./assets/img/esta4.png)
+background-size: contain
+background-position: 100%
+
+# ¿Cómo está(n)?
+
+---
+background-image: url(./assets/img/esta5.png)
+background-size: contain
+background-position: 100%
+
+# ¿Cómo está(n)?
+
+---
+background-image: url(./assets/img/esta6.png)
+background-size: contain
+background-position: 100%
+
+# ¿Cómo está(n)?
+
+---
+background-image: url(./assets/img/esta7.png)
+background-size: contain
+background-position: 100%
+
+# ¿Cómo está(n)?
+
+---
+background-image: url(./assets/img/esta8.png)
+background-size: contain
+background-position: 100%
+
+# ¿Cómo está(n)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 class: inverse, center, middle
@@ -110,111 +228,13 @@ class: inverse, center, middle
 - Haced una lista de 4 preguntas (2 sí/no, 2 de información)
 - Tened en cuenta la entonación
 
----
-background-image: url(./assets/img/estados.png)
-background-size: 650px
-background-position: 100% 70%
 
-# ¿Cómo estás?: Los estados y el verbo estar
 
-**Yo estoy \_\_\_\_**  
 
-Ej. Yo estoy cansado(a)
 
----
 
-# Los pronombres personales
 
-</br>
 
-|    |    |  Singular      |    | Plural              |
-|:---| :- | :--------------| :- | :------------------ |
-| 1a |    |  yo            |    | nosotros/as         |
-| 2a |    |  tú            |    | vosotros/as         |
-| 3a |    |  él/ella/usted |    | ellos/ellas/ustedes |
-| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
-
---
-
-Pronombres no binarios: elle, elles, nosotres, vosotres
-
----
-
-# El verbo estar
-
-</br>
-
-|    |    |  Singular              |    | Plural                        |
-|:---| :- | :--------------------- | :- | :---------------------------- |
-| 1a |    | yo **estoy**           |    | nosotros/as **estamos**       |
-| 2a |    | tú **estás**           |    | vosotros/as **estáis**        |
-| 3a |    | él/ella/usted **está** |    | ellos/ellas/ustedes **están** |
-| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
-
----
-background-image: url(../../site_libs/assets/img/confundido.png)
-background-size: contain
-background-position: 110% 50%
-
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta1.png)
-background-size: 600px
-background-position: 50% 60%
-
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta2.png)
-background-size: 600px
-background-position: 50% 70%
-
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta3.png)
-background-size: contain
-background-position: 100%
-
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta4.png)
-background-size: contain
-background-position: 100%
-
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta5.png)
-background-size: contain
-background-position: 100%
-
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta6.png)
-background-size: contain
-background-position: 100%
-
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta7.png)
-background-size: contain
-background-position: 100%
-
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta8.png)
-background-size: contain
-background-position: 100%
-
-# ¿Cómo está(n)?
-
----
 
 # Estrategias para la comunicación oral  
 
