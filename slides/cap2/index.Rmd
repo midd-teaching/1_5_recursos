@@ -2,7 +2,7 @@
 title       : "Español 1.5"
 subtitle    : "Capítulo 2"
 author      : "Joseph V. Casillas"
-date        : "Middlebury College | Verano 2020"
+date        : "Middlebury College | Verano 2021"
 output:
   xaringan::moon_reader:
     css: ["hygge", "middlebury", "middlebury-fonts"]
@@ -18,6 +18,7 @@ output:
 
 ```{r setup, include=FALSE, cache=FALSE}
 options(htmltools.dir.version = FALSE)
+xaringanExtra:::use_freezeframe()
 ```
 
 class: inverse, center, middle
@@ -178,7 +179,7 @@ background-position: 90% 40%
 
 # Presentación de un compañero
 
-- Vais a hacer una presentación oral corta el viernes
+- Vais a hacer una presentación oral corta ~~el viernes~~ el lunes
 
 --
 
@@ -201,7 +202,7 @@ visto en clase
 
 - Escoger un compañero
 
-- Quedar en una hora esta tarde para hablar (si hace falta)
+- Quedar para hablar fuera de clase (si hace falta)
 
 - Utilizar nuestras estrategias para obtener información
 
@@ -223,11 +224,7 @@ visto en clase
 
 --
 
-- Vocales puras
-
---
-
-- Tensión bucal
+- Vocaliza
 
 --
 
@@ -406,61 +403,284 @@ background-position: 90% 30%
 ]
 
 ---
+class: title-slide-section-grey, middle, center
 
-background-image: url(./assets/img/esta1.png)
-background-size: 600px
-background-position: 50% 60%
-
-# ¿Cómo está(n)?
+# ¿.RUred[Cómo es (son)]? </br></br>¿.RUred[Cómo está(n)]?
 
 ---
-background-image: url(./assets/img/esta2.png)
-background-size: 600px
+
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/cant_believe.gif)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/creepy_happy.gif)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/haha.gif)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/jurassic_park.gif)
+background-size: contain
+
+---
+background-color: black
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/luis.gif)
+background-size: contain
+
+---
+background-color: black
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/rock_clap.gif)
+background-size: contain
+
+---
+background-color: black
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/tired.png)
+background-size: contain
+
+---
+background-color: black
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/general/gifs/throw_into_pool.gif)
+background-size: contain
+
+---
+
+
+
+
+
+
+
+
+
+
+class: inverse, center, middle
+
+# Gustar
+
+---
+background-image: url(./assets/img/tiempolibre1.png)
+background-size: 900px
 background-position: 50% 70%
 
-# ¿Cómo está(n)?
+# ¿Qué le gusta hacer en su tiempo libre?
 
 ---
-background-image: url(./assets/img/esta3.png)
-background-size: contain
-background-position: 100%
+background-image: url(./assets/img/tiempolibre2.png)
+background-size: 850px
+background-position: 50% 70%
 
-# ¿Cómo está(n)?
-
----
-background-image: url(./assets/img/esta4.png)
-background-size: contain
-background-position: 100%
-
-# ¿Cómo está(n)?
+# ¿Qué le gusta hacer en su tiempo libre?
 
 ---
-background-image: url(./assets/img/esta5.png)
-background-size: contain
-background-position: 100%
 
-# ¿Cómo está(n)?
+# El verbo gustar
 
----
-background-image: url(./assets/img/esta6.png)
-background-size: contain
-background-position: 100%
+### El verbo gustar tiene DOS formas<sup>1</sup>: **gusta** y **gustan**
 
-# ¿Cómo está(n)?
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:--------------|
+| Me                    | gust**a**    | jugar al tenis|
+| Te                    | gust**a**    | el tenis      |
+| Le                    | gust**a**    | el deporte    |
+| Nos                   | gust**a**    | la clase      |
+| Os                    | gust**a**    | Middlebury    |
+| Les                   | gust**a**    | la lluvia     |
 
----
-background-image: url(./assets/img/esta7.png)
-background-size: contain
-background-position: 100%
-
-# ¿Cómo está(n)?
+.footnote[
+<sup>1</sup> Mentira.
+]
 
 ---
-background-image: url(./assets/img/esta8.png)
-background-size: contain
-background-position: 100%
 
-# ¿Cómo está(n)?
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas<sup>1</sup>: **gusta** y **gustan**
+
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:---------------------|
+| Me                    | gust**an**   | los árboles          |
+| Te                    | gust**an**   | el tenis y el fútbol |
+| Le                    | gust**an**   | los deportes         |
+| Nos                   | gust**an**   | las clases           |
+| Os                    | gust**an**   | los edificios        |
+| Les                   | gust**an**   | las nubes            |
+
+.footnote[
+<sup>1</sup> Mentira.
+]
+
+---
+
+# ¿A ti qué te gusta hacer en tu tiempo libre?
+
+- montar en bicicleta 
+
+- jugar videojuegos 
+
+- practicar el tenis 
+
+- mirar una película de terror 
+
+- bailar en una fiesta 
+
+- ir de compras 
+
+- correr por el campus 
+
+- leer el periódico 
+
+- practicar el básquetbol
+
+---
+
+# ¿Con qué frecuencia...
+
+.pull-left[
+
+</br>
+</br>
+</br>
+</br>
+
+- vas de compras?
+
+- vas al cine?
+
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+
+- a menudo
+
+- a veces
+
+- casi todos los días
+
+- casi nunca
+
+- nunca
+
+]
+
+---
+
+# El énfasis y aclaración con gustar y los nombres.
+
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:---------------------|:-------------|:--------------|
+| **A mí** me          | gust**a**    | jugar al tenis|
+| **A ti** te          | gust**a**    | el tenis      |
+| **A él** le          | gust**a**    | el deporte    |
+| **A nosotros** nos   | gust**a**    | la clase      |
+| **A vosotros** os    | gust**a**    | Middlebury    |
+| **A ellas** les      | gust**a**    | la lluvia     |
+
+--
+
+<midd-blockquote>
+
+.center[
+### **A Carlos** .RUred[le] .black[gusta] .white[pasar su tiempo libre en la residencia,] 
+
+### .white[pero] **a Juan** .RUred[le] .black[gusta] .white[estudiar en su cuarto.]
+]
+
+</midd-blockquote>
+
+---
+
+# El énfasis y aclaración con gustar y los nombres.
+
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:--------------------|
+| **A mí** me           | gust**an**   | los árboles         |
+| **A ti** te           | gust**an**   | el tenis y el fútbol|
+| **A él** le           | gust**an**   | los deportes        |
+| **A nosotros** nos    | gust**an**   | las clases          |
+| **A vosotros** os     | gust**an**   | los edificios       |
+| **A ellas** les       | gust**an**   | las nubes           |
+
+--
+
+<midd-blockquote>
+
+.center[
+### **A Carlos** .RUred[le] .black[gustan] .white[los plátanos,] 
+
+### .white[pero] **a Juan** .RUred[le] .black[gustan] .white[las manzanas.]
+]
+
+</midd-blockquote>
+
+---
+
+# ¿A tus amigos y a ti les gusta...
+
+.pull-left[
+
+</br>
+</br>
+</br>
+
+- jugar videojuegos?
+
+- patinar sobre el hielo?
+
+- nadar?
+
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+
+- Sí, nos gusta mucho.
+
+</br>
+
+- No, no tanto.
+
+]
+
+---
+
+# Cuando NO usamos gustar
+
+.center[
+
+![:scale 25%](./assets/img/jacobo.png)
+
+¿Me gusta el director?
+
+]
+
+- ¡NO! 
+
+--
+
+- Me cae bien el director.
+
+--
+
+- Me llevo bien con el director.
+
+
+
+
+
+
+
+
+
+
 
 ---
 class: title-slide-section-grey, middle, center

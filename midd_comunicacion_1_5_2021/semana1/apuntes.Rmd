@@ -127,6 +127,7 @@ Entrevistas/presentaciones, presente, interrogativos
 
 ### Comentarios
 
+- participacion un poco meh, pero terminamos todo y estamos al dia
 
 
 
@@ -136,43 +137,42 @@ Entrevistas/presentaciones, presente, interrogativos
 
 
 
-
-## Jueves, 2 de julio
+## Jueves, 1 de julio
 
 ### Plan
 
-Capítulo 1 ¿Qué estudias?  
+Capítulo 2 
 
-- Funciones: Entrevistas y presentaciones 
-- Estrategias para aprender vocabulario
-	- 1.1.1 Vocabulario en contexto: Los estudiantes españoles 
+- Descripciones, 
+- adjetivos, 
+- ser y estar
 
 ### Detalles
 
 - canvas, mylab check
-- zoom chat
-- entrevistas
-	- lluvia de ideas, preguntas para una entrevista
-	- preguntas acerca de la escuela en otros países
-	- invitado especial
 - estrategias para aprender vocabulario
 	- break out rooms
 	- google doc trick 
 		=GOOGLETRANSLATE(CELL, "en", "es")
+- Terminar slides cap 1
+- Start slides cap 2 
+- entrevistas
+	- lluvia de ideas, preguntas para una entrevista
 
 ### Tarea
 
 - Apuntarse al mylab/libro
 - Repasar el programa
-- Explorar la página moodle (go.middlebury.edu/hub)
-- Estudiar el vocabulario
+- Explorar la página canvas
 
 ### Comentarios
 
-- La entrevista con Rocio funcionó muy bien
-- vocab strategies funcionó muy bien también
+- Add gustar a cap 2 para el viernes
 
- 
+
+
+
+
             
 
 
