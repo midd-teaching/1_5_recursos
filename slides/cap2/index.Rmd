@@ -177,62 +177,6 @@ background-position: 90% 40%
 
 
 
-# Presentación de un compañero
-
-- Vais a hacer una presentación oral corta ~~el viernes~~ el lunes
-
---
-
-- Duración de 1.30
-
---
-
-- El enfoque será en las construcciones que hemos visto en clase
-
---
-
-- Podéis hablar de lo que queráis, pero sugiero que os centréis en lo que hemos 
-visto en clase
-
----
-
-# Preparación
-
-### Para preparar debéis:
-
-- Escoger un compañero
-
-- Quedar para hablar fuera de clase (si hace falta)
-
-- Utilizar nuestras estrategias para obtener información
-
-- Apuntar toda la información (verificar que es correcta)
-
-- Ensayar
-
-- **NO PODÉIS LEER**
-
----
-
-# Estrategias para la comunicación oral  
-
-- ¡Ensayar! ¡Ensayar! ¡Ensayar!
-
---
-
-- Hablar lentamente
-
---
-
-- Vocaliza
-
---
-
-- Practicad palabras largas por sílabas
-
----
-
-
 
 
 
@@ -672,15 +616,61 @@ background-position: 50% 70%
 
 - Me llevo bien con el director.
 
+---
 
 
+# Presentación de un compañero
 
+- Vais a hacer una presentación oral corta ~~el viernes~~ el lunes
 
+--
 
+- Duración de 1.30
 
+--
 
+- El enfoque será en las construcciones que hemos visto en clase
 
+--
 
+- Podéis hablar de lo que queráis, pero sugiero que os centréis en lo que hemos 
+visto en clase
+
+---
+
+# Preparación
+
+### Para preparar debéis:
+
+- Escoger un compañero
+
+- Quedar para hablar fuera de clase (si hace falta)
+
+- Utilizar nuestras estrategias para obtener información
+
+- Apuntar toda la información (verificar que es correcta)
+
+- Ensayar
+
+- **NO PODÉIS LEER**
+
+---
+
+# Estrategias para la comunicación oral  
+
+- ¡Ensayar! ¡Ensayar! ¡Ensayar!
+
+--
+
+- Hablar lentamente
+
+--
+
+- Vocaliza
+
+--
+
+- Practicad palabras largas por sílabas
 
 ---
 class: title-slide-section-grey, middle, center
