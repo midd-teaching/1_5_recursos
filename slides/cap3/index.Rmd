@@ -20,6 +20,9 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+```{r, xaringan, echo=F}
+xaringanExtra::use_freezeframe()
+```
 
 # Precalentamiento
 
@@ -156,14 +159,60 @@ background-image: url(./assets/img/2b.png)
 background-size: contain
 
 ---
+class: title-slide-section-grey, center, middle
 
-exclude: true
+# ¿Qué va(n) a hacer?
 
-# Los números de 100 a 10,000,000
+---
+count: false
+background-image: url(https://ewscripps.brightspotcdn.com/0e/6c/fdbdb4f24e35a5051d79bc276862/ap21117070573657.jpg)
+background-size: contain
 
-.center[
-![:scale 70%](./assets/img/numeros1.png)
-]
+---
+count: false
+background-image: url(https://www.theamericanconservative.com/wp-content/uploads/2015/04/shutterstock_212823067.jpg)
+background-size: contain
+
+---
+count: false
+background-image: url(https://www.forescout.com/wp-content/uploads/2017/04/hideseek-blog.jpg)
+background-size: contain
+
+---
+count: false
+background-image: url(https://images.theconversation.com/files/362834/original/file-20201012-20-wfc3qi.jpg?ixlib=rb-1.1.0&rect=97%2C135%2C4804%2C3493&q=45&auto=format&w=496&fit=clip)
+background-size: contain
+
+---
+count: false
+background-image: url(https://careerbright.com/wp-content/uploads/2015/07/scientist-1.jpg)
+background-size: contain
+
+---
+count: false
+background-image: url(https://i.pinimg.com/originals/3d/42/13/3d4213ead2be6f2e7a5903742cbb9d76.gif)
+background-size: contain
+
+---
+class: inverse
+count: false
+background-image: url(./assets/img/niko1.gif)
+background-size: contain
+
+---
+class: inverse
+count: false
+background-image: url(./assets/img/niko2.gif)
+background-size: contain
+
+---
+class: inverse, center, middle
+count: false
+
+<video width="350" controls>
+  <source src="./assets/video/niko.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -180,6 +229,14 @@ exclude: true
 --
 
   - **1492** (mil cuatrocientos noventa y dos)
+
+---
+
+# Los números de 100 a 10,000,000 (recordatorio)
+
+.center[
+![:scale 70%](./assets/img/numeros1.png)
+]
 
 ---
 
