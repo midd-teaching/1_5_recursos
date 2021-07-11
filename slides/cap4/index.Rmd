@@ -2,7 +2,7 @@
 title       : "Español 1.5"
 subtitle    : "Capítulo 4"
 author      : "Joseph V. Casillas"
-date        : "Middlebury College | Verano 2020"
+date        : "Middlebury College | Verano 2021"
 output:
   xaringan::moon_reader:
     css: ["hygge", "middlebury", "middlebury-fonts"]
@@ -36,83 +36,18 @@ background-size: contain
 class: inverse
 
 ---
+class: inverse, middle
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/scared.gif)
+background-position: 100% 50%
+background-size: 400px
 
-# La familia
-
-<div style="float: left">
-  <img src="./assets/img/arbolgenealogico.png">
-</div>
-
-<div style="float: right">
-  <img width="425" src="./assets/img/familia.png">
-</div>
-
----
-
-# ¿Cómo es tu familia?
-
-- Mi hermano mayor se llama...
-- Mi padre tiene ... años.
-- Mi tía vive en...
-
-</br>
-
-<div align="center">
-  <img src="./assets/img/familia.png">
-</div>
-
----
-background-image: url(./assets/img/familia2.png), url(./assets/img/familia1.png)
-background-size: 500px, 700px
-background-position: 5% 60%, 100% 50%
-
-# La familia
-
----
-
-# Mi árbol genealógico
-
-- En una hoja de papel dibujad una imagen del profe
-
---
-
-- Debajo de la imagen, pon "Joseph".
-
---
-
-- Escuchad la descripción y rellenad el árbol.
-
----
-
-# Mi árbol genealógico
-
-- En una hoja de papel dibujad una imagen de tu compañero.
-
-- Debajo de la imagen, pon su nombre.
-
-- Tu compañero/a va a describir su familia para que dibujes su árbol.
-
-- Tienes que describir claramente tu familia y ayudar a tu compañero/a 
-
-- Tienes que tener paciencia 
-
----
-
-
-
-
-
-
-
-class: inverse, center, middle
-
-# Verbos irregulares
+# Más verbos irregulares
 
 ---
 
 # Verbos irregulares
 
-### Verbos con cambio en la raíz
+## Verbos con cambio en la raíz
 
 .Large[
 
@@ -134,7 +69,7 @@ class: inverse, center, middle
 
 # Verbos irregulares
 
-### Los verbos con el cambio **e** → **ie**
+## Los verbos con el cambio **e** → **ie**
 
 .center[
 .large[
@@ -163,7 +98,7 @@ class: inverse, center, middle
 
 # Verbos irregulares
 
-### Los verbos con el cambio **o** → **ue**
+## Los verbos con el cambio **o** → **ue**
 
 .center[
 .large[
@@ -191,7 +126,7 @@ class: inverse, center, middle
 
 # Verbos irregulares
 
-### Los verbos con el cambio **e** → **i**
+## Los verbos con el cambio **e** → **i**
 
 .center[
 .large[
@@ -217,10 +152,9 @@ class: inverse, center, middle
 
 ---
 
-
 # Verbos irregulares
 
-### Jugar: el cambio **u** → **ue**
+## Jugar: el cambio **u** → **ue**
 
 .center[
 .large[
@@ -257,8 +191,7 @@ corta en una hoja de papel.
 
 <p></p>
 
-- Cuando el profesor diga, mándale el cuento a alguien de tu grupo por mensaje 
-**privado**.
+- Cuando el profesor diga, pasa tu papel a otra persona.
 
 <p></p>
 
@@ -291,7 +224,6 @@ corta en una hoja de papel.
 - recomendar
 
 ]
-
 
 ---
 
@@ -467,100 +399,62 @@ background-image: url(./assets/img/scratch.gif)
 background-size: 450px
 background-position: 85% 50%
 
+---
+class: title-slide-section-grey, center, middle
 
+# El verbo *tener*
 
 ---
 
+# El verbo *tener*
 
+.center[
 
+|             |                        | .blue[Singular] |                       | .blue[Plural]  |
+| :---------- | :--------------------- | :-------------- | :-------------------- | :------------- |
+| .RUred[1a]  | .grey[yo]              | tengo           | nosotros/as           | tenemos        |
+| .RUred[2a]  | .grey[tú]              | tienes          | vosotros/as           | tenéis         |
+| .RUred[3a]  | .grey[él, ella, usted] | tiene           | ellos, ellas, ustedes | tienen         |
 
-
-
-
-
-# ¿Cómo es la casa?: describir características de la casa
-
-<div align="center">
-  <div style="float: left">
-  <img width="400" src="./assets/img/casa1.jpg">
-  </div>
-  <div align="right">
-  <img width="400" src="./assets/img/casa2.jpg">
-  </div>
-</div>
-
-</br>
+]
 
 --
 
-- Mi casa es **nueva** (**vieja**).
-- La sala es **grande** y **cómoda**.
-- Los muebles son **elegantes**.
+- Posesión
+  - Tengo tres gatos
+  - Tienes una casa bonita
+  - Los estudiantes tienen un examen
 
+- Obligación (tener que + inf.)
+  - **Tengo que** estudiar.
+  - Tenemos que hacer mucha tarea para aprobar la clase
+
+- Frases/expersiones especiales
 
 ---
 
-# ¿Cómo es la casa?: describir la casa, los cuartos y los muebles
+# El verbo *tener*
 
-<div align="center">
-  <div style="float: left">
-  <img width="400" src="./assets/img/casa3.jpg">
-  </div>
-  <div align="right">
-  <img width="400" src="./assets/img/casa4.png">
-  </div>
-</div>
+### Expresiones con el verbo *tener*
 
-</br>
+.pull-left[
 
---
+- tener hambre
+- tener sed
+- tener frío
+- tener calor
+- tener celos
+- tener miedo
+- tener razón
 
-- Normalmente, mi cuarto está **ordenado** (**desordenado**).
-- Por lo general, la cocina está **limpia**.
-- Por desgracia, el **refrigerador** está **descompuesto** y la **ventana** está **rota**.
+]
 
----
+.pull-right[
 
-# ¿Dónde vive la familia?: la casa
+- tener suerte
+- tener sueño
+- tener prisa
+- tener X años
+- tener ganas de
 
-<div align="center">
-  <img width="850" src="./assets/img/muebles1.png">
-</div>
-
----
-
-# Las relaciones espaciales - ¿Dónde está el gato?
-
-<div align="center">
-  <img width="700" src="./assets/img/muebles2.png">
-</div>
-
----
-
-# Veo veo
-
-- Escoge un objeto
-
---
-
-- Describe su ubicación dentro de la habitación con relación a otros objetos
-
---
-
-- Ej.  
-Veo un objeto  
-Está al lado de la lámpara  
-Está encima del mueble que está al lado de la cama
-
---
-
-- Si aciertas, ganas un punto
-
---
-
-- Juega hasta conseguir 5 puntos
-
----
-background-image: url(./assets/img/room.jpg)
-background-size: contain
-
+]

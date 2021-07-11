@@ -2,7 +2,7 @@
 title       : "Español 1.5"
 subtitle    : "Capítulo 6"
 author      : "Joseph V. Casillas"
-date        : "Middlebury College | Verano 2020"
+date        : "Middlebury College | Verano 2021"
 output:
   xaringan::moon_reader:
     css: ["hygge", "middlebury", "middlebury-fonts"]
