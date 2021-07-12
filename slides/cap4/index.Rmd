@@ -239,6 +239,125 @@ para compartir con la clase.
 
 ]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+class: inverse, middle, center
+
+# Los verbos reflexivos
+
+---
+
+# Maya
+
+<div align="center">
+  <video width="600" height="450" allowfullscreen controls>
+    <source src="./assets/videos/mayaShake.mov" type="video/mp4">
+    <source src="./assets/videos/mayaShake.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+  </video>
+</div>
+
+---
+background-image: url(./assets/img/reflexivo1.png)
+background-size: contain
+
+---
+background-image: url(./assets/img/reflexivo2.png)
+background-size: contain
+
+---
+background-image: url(./assets/img/reflexivo3.png)
+background-size: contain
+
+---
+
+# Los verbos reflexivos: 
+
+### el sujeto y el objeto son la misma persona
+
+.center[
+![:scale 70%](./assets/img/reflexivos1.png)
+]
+
+---
+
+# Los pronombres reflexivos reflejan el sujeto de la frase
+
+.center[
+![:scale 60%](./assets/img/reflexivos1.png)
+]
+
+</br>
+
+- Prefiero levantar**me** temprano.
+
+- Me lavo **LOS** dientes todos los días.
+
+---
+
+# Los verbos regulares:
+
+.center[
+![:scale 50%](./assets/img/reflexivos3.png)
+]
+
+---
+
+# Los verbos irregulares
+
+.center[
+![:scale 75%](./assets/img/reflexivos4.png)
+]
+
+---
+
+# JT
+
+<div align="center">
+  <video width="600" height="450" allowfullscreen controls>
+    <source src="./assets/videos/reflexivo.mp4" type="video/mp4">
+    <source src="./assets/videos/reflexivo.ogg" type="video/ogg">
+  </video>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+class: title-slide-section-grey, center, middle
+
+# Para expresar reciprocidad
+
 ---
 background-image: url(./assets/img/spiderman.jpg)
 background-size: contain
@@ -398,6 +517,30 @@ background-position: 85% 50%
 background-image: url(./assets/img/scratch.gif)
 background-size: 450px
 background-position: 85% 50%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 class: title-slide-section-grey, center, middle
